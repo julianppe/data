@@ -1,0 +1,1249 @@
+time,b,se,variable,skill,pais,desagregacion,detalle_indicador
+-5,9.4985733,3.7608147,Ingreso laboral,high,URY,Nivel educativo,Ingreso laboral total
+-4,6.4360085,3.6289072,Ingreso laboral,high,URY,Nivel educativo,Ingreso laboral total
+-3,2.5222514,3.5594287,Ingreso laboral,high,URY,Nivel educativo,Ingreso laboral total
+-2,0,0,Ingreso laboral,high,URY,Nivel educativo,Ingreso laboral total
+-1,-4.5284839,3.5882399,Ingreso laboral,high,URY,Nivel educativo,Ingreso laboral total
+0,-87.166481,15.770256,Ingreso laboral,high,URY,Nivel educativo,Ingreso laboral total
+1,-57.034195,15.40405,Ingreso laboral,high,URY,Nivel educativo,Ingreso laboral total
+2,-37.896297,17.961798,Ingreso laboral,high,URY,Nivel educativo,Ingreso laboral total
+3,-33.815327,26.380959,Ingreso laboral,high,URY,Nivel educativo,Ingreso laboral total
+4,-54.367493,19.636223,Ingreso laboral,high,URY,Nivel educativo,Ingreso laboral total
+5,-51.729599,21.469074,Ingreso laboral,high,URY,Nivel educativo,Ingreso laboral total
+6,-48.417305,25.750938,Ingreso laboral,high,URY,Nivel educativo,Ingreso laboral total
+7,-71.586632,26.287951,Ingreso laboral,high,URY,Nivel educativo,Ingreso laboral total
+8,-59.191711,30.182827,Ingreso laboral,high,URY,Nivel educativo,Ingreso laboral total
+9,-49.432194,35.830563,Ingreso laboral,high,URY,Nivel educativo,Ingreso laboral total
+10,-72.254997,39.337299,Ingreso laboral,high,URY,Nivel educativo,Ingreso laboral total
+-5,64.712212,52.03294,Ingreso laboral,high,PRY,Nivel educativo,Ingreso laboral total
+-4,37.933994,52.902321,Ingreso laboral,high,PRY,Nivel educativo,Ingreso laboral total
+-3,16.486275,46.176826,Ingreso laboral,high,PRY,Nivel educativo,Ingreso laboral total
+-2,0,0,Ingreso laboral,high,PRY,Nivel educativo,Ingreso laboral total
+-1,5.9688067,51.874855,Ingreso laboral,high,PRY,Nivel educativo,Ingreso laboral total
+0,-122.0751,108.4332,Ingreso laboral,high,PRY,Nivel educativo,Ingreso laboral total
+1,-58.773388,316.86307,Ingreso laboral,high,PRY,Nivel educativo,Ingreso laboral total
+2,-89.822701,119.70068,Ingreso laboral,high,PRY,Nivel educativo,Ingreso laboral total
+3,-126.46056,157.43538,Ingreso laboral,high,PRY,Nivel educativo,Ingreso laboral total
+4,-135.7506,138.04797,Ingreso laboral,high,PRY,Nivel educativo,Ingreso laboral total
+5,-183.15051,170.70865,Ingreso laboral,high,PRY,Nivel educativo,Ingreso laboral total
+6,-159.96577,231.60744,Ingreso laboral,high,PRY,Nivel educativo,Ingreso laboral total
+7,-151.96744,183.44225,Ingreso laboral,high,PRY,Nivel educativo,Ingreso laboral total
+8,-202.83127,195.86943,Ingreso laboral,high,PRY,Nivel educativo,Ingreso laboral total
+9,-215.48592,245.48958,Ingreso laboral,high,PRY,Nivel educativo,Ingreso laboral total
+10,-83.942421,262.1817,Ingreso laboral,high,PRY,Nivel educativo,Ingreso laboral total
+-5,21.259497,66.106964,Ingreso laboral,high,PER,Nivel educativo,Ingreso laboral total
+-4,35.564213,60.464916,Ingreso laboral,high,PER,Nivel educativo,Ingreso laboral total
+-3,35.643047,56.461651,Ingreso laboral,high,PER,Nivel educativo,Ingreso laboral total
+-2,0,0,Ingreso laboral,high,PER,Nivel educativo,Ingreso laboral total
+-1,-62.504639,50.540676,Ingreso laboral,high,PER,Nivel educativo,Ingreso laboral total
+0,-302.07437,70.155937,Ingreso laboral,high,PER,Nivel educativo,Ingreso laboral total
+1,-182.04271,87.558762,Ingreso laboral,high,PER,Nivel educativo,Ingreso laboral total
+2,-203.99219,79.61721,Ingreso laboral,high,PER,Nivel educativo,Ingreso laboral total
+3,-267.97198,87.784393,Ingreso laboral,high,PER,Nivel educativo,Ingreso laboral total
+4,-163.59489,93.360847,Ingreso laboral,high,PER,Nivel educativo,Ingreso laboral total
+5,-209.61191,95.121048,Ingreso laboral,high,PER,Nivel educativo,Ingreso laboral total
+6,-188.00108,134.30302,Ingreso laboral,high,PER,Nivel educativo,Ingreso laboral total
+7,-286.81302,104.24746,Ingreso laboral,high,PER,Nivel educativo,Ingreso laboral total
+8,-291.79279,122.97311,Ingreso laboral,high,PER,Nivel educativo,Ingreso laboral total
+9,-278.63281,133.3873,Ingreso laboral,high,PER,Nivel educativo,Ingreso laboral total
+10,-316.2309,134.76292,Ingreso laboral,high,PER,Nivel educativo,Ingreso laboral total
+-5,-11.844666,42.591492,Ingreso laboral,high,PAN,Nivel educativo,Ingreso laboral total
+-4,-21.190861,39.222393,Ingreso laboral,high,PAN,Nivel educativo,Ingreso laboral total
+-3,-20.909769,39.421173,Ingreso laboral,high,PAN,Nivel educativo,Ingreso laboral total
+-2,0,0,Ingreso laboral,high,PAN,Nivel educativo,Ingreso laboral total
+-1,-51.069221,37.16185,Ingreso laboral,high,PAN,Nivel educativo,Ingreso laboral total
+0,-177.16066,96.058983,Ingreso laboral,high,PAN,Nivel educativo,Ingreso laboral total
+1,-167.44872,104.34472,Ingreso laboral,high,PAN,Nivel educativo,Ingreso laboral total
+2,-198.61438,102.49442,Ingreso laboral,high,PAN,Nivel educativo,Ingreso laboral total
+3,-200.30252,100.87649,Ingreso laboral,high,PAN,Nivel educativo,Ingreso laboral total
+4,-168.62289,126.16033,Ingreso laboral,high,PAN,Nivel educativo,Ingreso laboral total
+5,-219.60043,147.94925,Ingreso laboral,high,PAN,Nivel educativo,Ingreso laboral total
+6,-281.60202,130.87862,Ingreso laboral,high,PAN,Nivel educativo,Ingreso laboral total
+7,-252.85777,154.67169,Ingreso laboral,high,PAN,Nivel educativo,Ingreso laboral total
+8,-317.4425,174.11398,Ingreso laboral,high,PAN,Nivel educativo,Ingreso laboral total
+9,-463.93542,155.01019,Ingreso laboral,high,PAN,Nivel educativo,Ingreso laboral total
+10,-219.57849,232.52029,Ingreso laboral,high,PAN,Nivel educativo,Ingreso laboral total
+-5,-2.3568707,5.307827,Ingreso laboral,high,MEX,Nivel educativo,Ingreso laboral total
+-4,-1.7250061,4.8872275,Ingreso laboral,high,MEX,Nivel educativo,Ingreso laboral total
+-3,3.9884229,4.59654,Ingreso laboral,high,MEX,Nivel educativo,Ingreso laboral total
+-2,0,0,Ingreso laboral,high,MEX,Nivel educativo,Ingreso laboral total
+-1,-3.2008133,4.3478918,Ingreso laboral,high,MEX,Nivel educativo,Ingreso laboral total
+0,-149.63348,12.23388,Ingreso laboral,high,MEX,Nivel educativo,Ingreso laboral total
+1,-141.7361,12.501767,Ingreso laboral,high,MEX,Nivel educativo,Ingreso laboral total
+2,-148.03191,12.306227,Ingreso laboral,high,MEX,Nivel educativo,Ingreso laboral total
+3,-149.17085,12.874537,Ingreso laboral,high,MEX,Nivel educativo,Ingreso laboral total
+4,-168.64569,13.539693,Ingreso laboral,high,MEX,Nivel educativo,Ingreso laboral total
+5,-153.78503,14.15242,Ingreso laboral,high,MEX,Nivel educativo,Ingreso laboral total
+6,-162.91618,15.421624,Ingreso laboral,high,MEX,Nivel educativo,Ingreso laboral total
+7,-183.26624,16.267317,Ingreso laboral,high,MEX,Nivel educativo,Ingreso laboral total
+8,-180.8521,18.86372,Ingreso laboral,high,MEX,Nivel educativo,Ingreso laboral total
+9,-175.22723,20.456795,Ingreso laboral,high,MEX,Nivel educativo,Ingreso laboral total
+10,-204.47296,23.712168,Ingreso laboral,high,MEX,Nivel educativo,Ingreso laboral total
+-5,-16.531132,52.745743,Ingreso laboral,high,ECU,Nivel educativo,Ingreso laboral total
+-4,-22.047935,48.157547,Ingreso laboral,high,ECU,Nivel educativo,Ingreso laboral total
+-3,-27.214958,44.46151,Ingreso laboral,high,ECU,Nivel educativo,Ingreso laboral total
+-2,0,0,Ingreso laboral,high,ECU,Nivel educativo,Ingreso laboral total
+-1,-84.291359,40.866146,Ingreso laboral,high,ECU,Nivel educativo,Ingreso laboral total
+0,-253.62531,77.487099,Ingreso laboral,high,ECU,Nivel educativo,Ingreso laboral total
+1,-258.83975,82.293045,Ingreso laboral,high,ECU,Nivel educativo,Ingreso laboral total
+2,-243.27414,85.381226,Ingreso laboral,high,ECU,Nivel educativo,Ingreso laboral total
+3,-249.20186,87.592735,Ingreso laboral,high,ECU,Nivel educativo,Ingreso laboral total
+4,-222.10045,91.102699,Ingreso laboral,high,ECU,Nivel educativo,Ingreso laboral total
+5,-237.44264,139.91988,Ingreso laboral,high,ECU,Nivel educativo,Ingreso laboral total
+6,-238.18599,234.22728,Ingreso laboral,high,ECU,Nivel educativo,Ingreso laboral total
+7,-387.8443,103.88199,Ingreso laboral,high,ECU,Nivel educativo,Ingreso laboral total
+8,-317.21835,127.44751,Ingreso laboral,high,ECU,Nivel educativo,Ingreso laboral total
+9,-422.51404,155.92145,Ingreso laboral,high,ECU,Nivel educativo,Ingreso laboral total
+10,-414.34286,211.93073,Ingreso laboral,high,ECU,Nivel educativo,Ingreso laboral total
+-5,41.964939,58.499451,Ingreso laboral,high,CRI,Nivel educativo,Ingreso laboral total
+-4,20.812746,53.873837,Ingreso laboral,high,CRI,Nivel educativo,Ingreso laboral total
+-3,1.0940913,52.856491,Ingreso laboral,high,CRI,Nivel educativo,Ingreso laboral total
+-2,0,0,Ingreso laboral,high,CRI,Nivel educativo,Ingreso laboral total
+-1,-18.27314,51.497746,Ingreso laboral,high,CRI,Nivel educativo,Ingreso laboral total
+0,-236.70856,122.96349,Ingreso laboral,high,CRI,Nivel educativo,Ingreso laboral total
+1,-181.25566,154.99644,Ingreso laboral,high,CRI,Nivel educativo,Ingreso laboral total
+2,-322.69406,116.1034,Ingreso laboral,high,CRI,Nivel educativo,Ingreso laboral total
+3,-313.09573,200.68132,Ingreso laboral,high,CRI,Nivel educativo,Ingreso laboral total
+4,-221.25729,138.48827,Ingreso laboral,high,CRI,Nivel educativo,Ingreso laboral total
+5,-231.69609,171.28796,Ingreso laboral,high,CRI,Nivel educativo,Ingreso laboral total
+6,-341.89063,164.31435,Ingreso laboral,high,CRI,Nivel educativo,Ingreso laboral total
+7,-416.5553,175.38542,Ingreso laboral,high,CRI,Nivel educativo,Ingreso laboral total
+8,-359.33969,211.245,Ingreso laboral,high,CRI,Nivel educativo,Ingreso laboral total
+9,-402.98276,208.45218,Ingreso laboral,high,CRI,Nivel educativo,Ingreso laboral total
+10,-147.41211,278.17505,Ingreso laboral,high,CRI,Nivel educativo,Ingreso laboral total
+-5,39.447857,9.0184031,Ingreso laboral,high,COL,Nivel educativo,Ingreso laboral total
+-4,23.526901,8.0645084,Ingreso laboral,high,COL,Nivel educativo,Ingreso laboral total
+-3,13.355918,7.3646841,Ingreso laboral,high,COL,Nivel educativo,Ingreso laboral total
+-2,0,0,Ingreso laboral,high,COL,Nivel educativo,Ingreso laboral total
+-1,-13.43394,7.1712041,Ingreso laboral,high,COL,Nivel educativo,Ingreso laboral total
+0,-168.57504,20.628397,Ingreso laboral,high,COL,Nivel educativo,Ingreso laboral total
+1,-160.51735,23.089045,Ingreso laboral,high,COL,Nivel educativo,Ingreso laboral total
+2,-186.3783,22.966341,Ingreso laboral,high,COL,Nivel educativo,Ingreso laboral total
+3,-175.5632,26.091665,Ingreso laboral,high,COL,Nivel educativo,Ingreso laboral total
+4,-199.72549,27.775097,Ingreso laboral,high,COL,Nivel educativo,Ingreso laboral total
+5,-238.42569,33.194046,Ingreso laboral,high,COL,Nivel educativo,Ingreso laboral total
+6,-227.20473,37.758327,Ingreso laboral,high,COL,Nivel educativo,Ingreso laboral total
+7,-283.46252,36.231026,Ingreso laboral,high,COL,Nivel educativo,Ingreso laboral total
+8,-266.48746,44.429565,Ingreso laboral,high,COL,Nivel educativo,Ingreso laboral total
+9,-288.04367,54.773342,Ingreso laboral,high,COL,Nivel educativo,Ingreso laboral total
+10,-309.92871,77.645065,Ingreso laboral,high,COL,Nivel educativo,Ingreso laboral total
+-5,20.006834,9.4685612,Ingreso laboral,high,CHL,Nivel educativo,Ingreso laboral total
+-4,13.89788,8.9034576,Ingreso laboral,high,CHL,Nivel educativo,Ingreso laboral total
+-3,9.0905161,8.6843023,Ingreso laboral,high,CHL,Nivel educativo,Ingreso laboral total
+-2,0,0,Ingreso laboral,high,CHL,Nivel educativo,Ingreso laboral total
+-1,-5.6369238,7.9815664,Ingreso laboral,high,CHL,Nivel educativo,Ingreso laboral total
+0,-76.883278,27.595058,Ingreso laboral,high,CHL,Nivel educativo,Ingreso laboral total
+1,-67.090759,27.637411,Ingreso laboral,high,CHL,Nivel educativo,Ingreso laboral total
+2,-70.049591,39.180981,Ingreso laboral,high,CHL,Nivel educativo,Ingreso laboral total
+3,-69.517426,30.141109,Ingreso laboral,high,CHL,Nivel educativo,Ingreso laboral total
+4,-52.514217,34.593597,Ingreso laboral,high,CHL,Nivel educativo,Ingreso laboral total
+5,-68.646461,31.420792,Ingreso laboral,high,CHL,Nivel educativo,Ingreso laboral total
+6,-84.985252,32.888271,Ingreso laboral,high,CHL,Nivel educativo,Ingreso laboral total
+7,-127.18192,29.541832,Ingreso laboral,high,CHL,Nivel educativo,Ingreso laboral total
+8,-110.82067,34.839127,Ingreso laboral,high,CHL,Nivel educativo,Ingreso laboral total
+9,-100.07082,38.899067,Ingreso laboral,high,CHL,Nivel educativo,Ingreso laboral total
+10,-103.80689,41.404804,Ingreso laboral,high,CHL,Nivel educativo,Ingreso laboral total
+-5,33.524654,12.39466,Ingreso laboral,high,BRA,Nivel educativo,Ingreso laboral total
+-4,29.713375,12.347745,Ingreso laboral,high,BRA,Nivel educativo,Ingreso laboral total
+-3,18.417273,11.758306,Ingreso laboral,high,BRA,Nivel educativo,Ingreso laboral total
+-2,0,0,Ingreso laboral,high,BRA,Nivel educativo,Ingreso laboral total
+-1,-11.255721,11.757039,Ingreso laboral,high,BRA,Nivel educativo,Ingreso laboral total
+0,-149.04182,33.777985,Ingreso laboral,high,BRA,Nivel educativo,Ingreso laboral total
+1,-190.17424,39.217129,Ingreso laboral,high,BRA,Nivel educativo,Ingreso laboral total
+2,-198.65482,39.423214,Ingreso laboral,high,BRA,Nivel educativo,Ingreso laboral total
+3,-178.97095,40.094715,Ingreso laboral,high,BRA,Nivel educativo,Ingreso laboral total
+4,-194.34001,46.199535,Ingreso laboral,high,BRA,Nivel educativo,Ingreso laboral total
+5,-224.57281,49.014034,Ingreso laboral,high,BRA,Nivel educativo,Ingreso laboral total
+6,-303.69687,46.107548,Ingreso laboral,high,BRA,Nivel educativo,Ingreso laboral total
+7,-298.5332,50.286018,Ingreso laboral,high,BRA,Nivel educativo,Ingreso laboral total
+8,-250.24515,58.642532,Ingreso laboral,high,BRA,Nivel educativo,Ingreso laboral total
+9,-336.83286,59.695724,Ingreso laboral,high,BRA,Nivel educativo,Ingreso laboral total
+10,-363.98676,64.755798,Ingreso laboral,high,BRA,Nivel educativo,Ingreso laboral total
+-5,-23.37174,79.77211,Ingreso laboral,high,BOL,Nivel educativo,Ingreso laboral total
+-4,-32.545086,61.503433,Ingreso laboral,high,BOL,Nivel educativo,Ingreso laboral total
+-3,-30.879461,55.840115,Ingreso laboral,high,BOL,Nivel educativo,Ingreso laboral total
+-2,0,0,Ingreso laboral,high,BOL,Nivel educativo,Ingreso laboral total
+-1,-7.0373764,53.073689,Ingreso laboral,high,BOL,Nivel educativo,Ingreso laboral total
+0,-164.327,74.041138,Ingreso laboral,high,BOL,Nivel educativo,Ingreso laboral total
+1,-152.32303,79.727509,Ingreso laboral,high,BOL,Nivel educativo,Ingreso laboral total
+2,-130.10719,91.154243,Ingreso laboral,high,BOL,Nivel educativo,Ingreso laboral total
+3,-167.65982,90.224854,Ingreso laboral,high,BOL,Nivel educativo,Ingreso laboral total
+4,-203.35315,108.72693,Ingreso laboral,high,BOL,Nivel educativo,Ingreso laboral total
+5,-175.63422,107.47242,Ingreso laboral,high,BOL,Nivel educativo,Ingreso laboral total
+6,-197.93005,128.8652,Ingreso laboral,high,BOL,Nivel educativo,Ingreso laboral total
+7,-247.16017,131.1969,Ingreso laboral,high,BOL,Nivel educativo,Ingreso laboral total
+8,-117.93689,156.75676,Ingreso laboral,high,BOL,Nivel educativo,Ingreso laboral total
+9,-283.64319,150.67528,Ingreso laboral,high,BOL,Nivel educativo,Ingreso laboral total
+10,-328.75992,142.52333,Ingreso laboral,high,BOL,Nivel educativo,Ingreso laboral total
+-5,30.846052,14.206568,Ingreso laboral,high,ARG,Nivel educativo,Ingreso laboral total
+-4,26.169662,13.051258,Ingreso laboral,high,ARG,Nivel educativo,Ingreso laboral total
+-3,-.90787095,11.633684,Ingreso laboral,high,ARG,Nivel educativo,Ingreso laboral total
+-2,0,0,Ingreso laboral,high,ARG,Nivel educativo,Ingreso laboral total
+-1,-18.641861,11.159039,Ingreso laboral,high,ARG,Nivel educativo,Ingreso laboral total
+0,-160.70787,24.983683,Ingreso laboral,high,ARG,Nivel educativo,Ingreso laboral total
+1,-171.90164,25.744875,Ingreso laboral,high,ARG,Nivel educativo,Ingreso laboral total
+2,-206.68054,25.558172,Ingreso laboral,high,ARG,Nivel educativo,Ingreso laboral total
+3,-203.65192,28.264717,Ingreso laboral,high,ARG,Nivel educativo,Ingreso laboral total
+4,-236.65456,29.28874,Ingreso laboral,high,ARG,Nivel educativo,Ingreso laboral total
+5,-215.01819,31.892365,Ingreso laboral,high,ARG,Nivel educativo,Ingreso laboral total
+6,-260.65353,34.37933,Ingreso laboral,high,ARG,Nivel educativo,Ingreso laboral total
+7,-272.71756,41.506229,Ingreso laboral,high,ARG,Nivel educativo,Ingreso laboral total
+8,-264.60864,43.341972,Ingreso laboral,high,ARG,Nivel educativo,Ingreso laboral total
+9,-267.57053,47.996586,Ingreso laboral,high,ARG,Nivel educativo,Ingreso laboral total
+10,-301.86496,55.091503,Ingreso laboral,high,ARG,Nivel educativo,Ingreso laboral total
+-5,.012656873,.0047651096,Empleo,high,URY,Nivel educativo,Empleado
+-4,.0088734087,.0043744664,Empleo,high,URY,Nivel educativo,Empleado
+-3,.0050248899,.0040572183,Empleo,high,URY,Nivel educativo,Empleado
+-2,0,0,Empleo,high,URY,Nivel educativo,Empleado
+-1,-.0008977619,.0037349502,Empleo,high,URY,Nivel educativo,Empleado
+0,-.061691429,.015109226,Empleo,high,URY,Nivel educativo,Empleado
+1,-.05633606,.014910095,Empleo,high,URY,Nivel educativo,Empleado
+2,-.058808621,.014739905,Empleo,high,URY,Nivel educativo,Empleado
+3,-.061586298,.01506946,Empleo,high,URY,Nivel educativo,Empleado
+4,-.049139258,.014589895,Empleo,high,URY,Nivel educativo,Empleado
+5,-.036941435,.014203182,Empleo,high,URY,Nivel educativo,Empleado
+6,-.05111324,.016405037,Empleo,high,URY,Nivel educativo,Empleado
+7,-.047022082,.016903667,Empleo,high,URY,Nivel educativo,Empleado
+8,-.048856594,.018712752,Empleo,high,URY,Nivel educativo,Empleado
+9,-.055614658,.02047576,Empleo,high,URY,Nivel educativo,Empleado
+10,-.048580661,.022391865,Empleo,high,URY,Nivel educativo,Empleado
+-5,.02884526,.033873349,Empleo,high,PRY,Nivel educativo,Empleado
+-4,-.0087461919,.03173143,Empleo,high,PRY,Nivel educativo,Empleado
+-3,.016440442,.029200692,Empleo,high,PRY,Nivel educativo,Empleado
+-2,0,0,Empleo,high,PRY,Nivel educativo,Empleado
+-1,.01275821,.02788613,Empleo,high,PRY,Nivel educativo,Empleado
+0,-.099174477,.063088112,Empleo,high,PRY,Nivel educativo,Empleado
+1,-.10726016,.064883217,Empleo,high,PRY,Nivel educativo,Empleado
+2,-.070700765,.058601432,Empleo,high,PRY,Nivel educativo,Empleado
+3,-.013333004,.057504702,Empleo,high,PRY,Nivel educativo,Empleado
+4,-.017170524,.059754398,Empleo,high,PRY,Nivel educativo,Empleado
+5,.0024549442,.060650069,Empleo,high,PRY,Nivel educativo,Empleado
+6,-.070484452,.073144503,Empleo,high,PRY,Nivel educativo,Empleado
+7,.031928372,.063931279,Empleo,high,PRY,Nivel educativo,Empleado
+8,.0077910731,.070600972,Empleo,high,PRY,Nivel educativo,Empleado
+9,-.026344944,.08117906,Empleo,high,PRY,Nivel educativo,Empleado
+10,.024022717,.076729082,Empleo,high,PRY,Nivel educativo,Empleado
+-5,.038650677,.052796107,Empleo,high,PER,Nivel educativo,Empleado
+-4,.0051214439,.049422391,Empleo,high,PER,Nivel educativo,Empleado
+-3,.038470753,.044267084,Empleo,high,PER,Nivel educativo,Empleado
+-2,0,0,Empleo,high,PER,Nivel educativo,Empleado
+-1,-.016980909,.041121397,Empleo,high,PER,Nivel educativo,Empleado
+0,-.28873801,.078714348,Empleo,high,PER,Nivel educativo,Empleado
+1,-.12709931,.070707299,Empleo,high,PER,Nivel educativo,Empleado
+2,-.080559142,.067674585,Empleo,high,PER,Nivel educativo,Empleado
+3,-.1013446,.07671915,Empleo,high,PER,Nivel educativo,Empleado
+4,-.030824918,.072989479,Empleo,high,PER,Nivel educativo,Empleado
+5,-.052933577,.075412713,Empleo,high,PER,Nivel educativo,Empleado
+6,-.091219589,.08151827,Empleo,high,PER,Nivel educativo,Empleado
+7,-.17382985,.09695863,Empleo,high,PER,Nivel educativo,Empleado
+8,-.090881027,.095893614,Empleo,high,PER,Nivel educativo,Empleado
+9,-.095645741,.10742588,Empleo,high,PER,Nivel educativo,Empleado
+10,-.057288576,.11600669,Empleo,high,PER,Nivel educativo,Empleado
+-5,-.01652381,.026217569,Empleo,high,PAN,Nivel educativo,Empleado
+-4,-.0044316133,.023422237,Empleo,high,PAN,Nivel educativo,Empleado
+-3,-.013436496,.021933254,Empleo,high,PAN,Nivel educativo,Empleado
+-2,0,0,Empleo,high,PAN,Nivel educativo,Empleado
+-1,-.0081937732,.019351803,Empleo,high,PAN,Nivel educativo,Empleado
+0,-.14950688,.050040238,Empleo,high,PAN,Nivel educativo,Empleado
+1,-.16200711,.051710431,Empleo,high,PAN,Nivel educativo,Empleado
+2,-.10193463,.045685902,Empleo,high,PAN,Nivel educativo,Empleado
+3,-.11731932,.049338412,Empleo,high,PAN,Nivel educativo,Empleado
+4,-.1352911,.050332375,Empleo,high,PAN,Nivel educativo,Empleado
+5,-.1140208,.049510486,Empleo,high,PAN,Nivel educativo,Empleado
+6,-.11205109,.053442482,Empleo,high,PAN,Nivel educativo,Empleado
+7,-.12949276,.058770072,Empleo,high,PAN,Nivel educativo,Empleado
+8,-.11533239,.060356766,Empleo,high,PAN,Nivel educativo,Empleado
+9,-.1213194,.061169695,Empleo,high,PAN,Nivel educativo,Empleado
+10,-.12512384,.06643571,Empleo,high,PAN,Nivel educativo,Empleado
+-5,.0055201128,.0040610302,Empleo,high,MEX,Nivel educativo,Empleado
+-4,.0011642592,.0035863402,Empleo,high,MEX,Nivel educativo,Empleado
+-3,.00079941796,.0032410412,Empleo,high,MEX,Nivel educativo,Empleado
+-2,0,0,Empleo,high,MEX,Nivel educativo,Empleado
+-1,-.0035652702,.0028519488,Empleo,high,MEX,Nivel educativo,Empleado
+0,-.15165645,.0097720651,Empleo,high,MEX,Nivel educativo,Empleado
+1,-.14520548,.0095062228,Empleo,high,MEX,Nivel educativo,Empleado
+2,-.13170737,.0097440304,Empleo,high,MEX,Nivel educativo,Empleado
+3,-.13219781,.010048215,Empleo,high,MEX,Nivel educativo,Empleado
+4,-.13722491,.010633181,Empleo,high,MEX,Nivel educativo,Empleado
+5,-.11794879,.011018222,Empleo,high,MEX,Nivel educativo,Empleado
+6,-.13070808,.011910293,Empleo,high,MEX,Nivel educativo,Empleado
+7,-.139336,.012949031,Empleo,high,MEX,Nivel educativo,Empleado
+8,-.13661982,.014090555,Empleo,high,MEX,Nivel educativo,Empleado
+9,-.13316326,.015289142,Empleo,high,MEX,Nivel educativo,Empleado
+10,-.14690696,.018230127,Empleo,high,MEX,Nivel educativo,Empleado
+-5,-.016271763,.032848168,Empleo,high,ECU,Nivel educativo,Empleado
+-4,-.024799624,.029252304,Empleo,high,ECU,Nivel educativo,Empleado
+-3,-.00020535644,.0267209,Empleo,high,ECU,Nivel educativo,Empleado
+-2,0,0,Empleo,high,ECU,Nivel educativo,Empleado
+-1,-.02632319,.023109896,Empleo,high,ECU,Nivel educativo,Empleado
+0,-.16110162,.05482981,Empleo,high,ECU,Nivel educativo,Empleado
+1,-.16166939,.054370571,Empleo,high,ECU,Nivel educativo,Empleado
+2,-.12421463,.050765693,Empleo,high,ECU,Nivel educativo,Empleado
+3,-.1585245,.055444796,Empleo,high,ECU,Nivel educativo,Empleado
+4,-.11214301,.052588418,Empleo,high,ECU,Nivel educativo,Empleado
+5,-.12477738,.055594593,Empleo,high,ECU,Nivel educativo,Empleado
+6,-.14242144,.059492793,Empleo,high,ECU,Nivel educativo,Empleado
+7,-.16595365,.061674859,Empleo,high,ECU,Nivel educativo,Empleado
+8,-.18387537,.073285498,Empleo,high,ECU,Nivel educativo,Empleado
+9,-.20920105,.081069082,Empleo,high,ECU,Nivel educativo,Empleado
+10,-.18018335,.10557728,Empleo,high,ECU,Nivel educativo,Empleado
+-5,.0026438041,.024455989,Empleo,high,CRI,Nivel educativo,Empleado
+-4,-.0092462385,.023072988,Empleo,high,CRI,Nivel educativo,Empleado
+-3,-.012860591,.021783419,Empleo,high,CRI,Nivel educativo,Empleado
+-2,0,0,Empleo,high,CRI,Nivel educativo,Empleado
+-1,-.012709036,.019223517,Empleo,high,CRI,Nivel educativo,Empleado
+0,-.1750828,.053515553,Empleo,high,CRI,Nivel educativo,Empleado
+1,-.11787047,.049462177,Empleo,high,CRI,Nivel educativo,Empleado
+2,-.15424044,.050827947,Empleo,high,CRI,Nivel educativo,Empleado
+3,-.14464609,.0522619,Empleo,high,CRI,Nivel educativo,Empleado
+4,-.1419615,.053076886,Empleo,high,CRI,Nivel educativo,Empleado
+5,-.13668936,.057837103,Empleo,high,CRI,Nivel educativo,Empleado
+6,-.14008211,.067174375,Empleo,high,CRI,Nivel educativo,Empleado
+7,-.14493473,.066949502,Empleo,high,CRI,Nivel educativo,Empleado
+8,-.14195472,.067732207,Empleo,high,CRI,Nivel educativo,Empleado
+9,-.15056022,.073882252,Empleo,high,CRI,Nivel educativo,Empleado
+10,-.1266906,.078006908,Empleo,high,CRI,Nivel educativo,Empleado
+-5,.01293015,.0053019379,Empleo,high,COL,Nivel educativo,Empleado
+-4,.0051107421,.0046150843,Empleo,high,COL,Nivel educativo,Empleado
+-3,.0064029745,.0041178078,Empleo,high,COL,Nivel educativo,Empleado
+-2,0,0,Empleo,high,COL,Nivel educativo,Empleado
+-1,-.0042242808,.0036480774,Empleo,high,COL,Nivel educativo,Empleado
+0,-.15558952,.011338106,Empleo,high,COL,Nivel educativo,Empleado
+1,-.11859147,.011214756,Empleo,high,COL,Nivel educativo,Empleado
+2,-.10234283,.011457805,Empleo,high,COL,Nivel educativo,Empleado
+3,-.08616136,.011837106,Empleo,high,COL,Nivel educativo,Empleado
+4,-.091315158,.012714779,Empleo,high,COL,Nivel educativo,Empleado
+5,-.1015925,.014028459,Empleo,high,COL,Nivel educativo,Empleado
+6,-.090648122,.015133747,Empleo,high,COL,Nivel educativo,Empleado
+7,-.098064855,.017481565,Empleo,high,COL,Nivel educativo,Empleado
+8,-.083454505,.01984505,Empleo,high,COL,Nivel educativo,Empleado
+9,-.092883408,.024151787,Empleo,high,COL,Nivel educativo,Empleado
+10,-.11370213,.035240937,Empleo,high,COL,Nivel educativo,Empleado
+-5,.019487448,.0072903819,Empleo,high,CHL,Nivel educativo,Empleado
+-4,.0070914328,.0065894471,Empleo,high,CHL,Nivel educativo,Empleado
+-3,.00017753022,.0061095711,Empleo,high,CHL,Nivel educativo,Empleado
+-2,0,0,Empleo,high,CHL,Nivel educativo,Empleado
+-1,-.0099094892,.0055038403,Empleo,high,CHL,Nivel educativo,Empleado
+0,-.074613333,.015980551,Empleo,high,CHL,Nivel educativo,Empleado
+1,-.10904478,.016320009,Empleo,high,CHL,Nivel educativo,Empleado
+2,-.11692155,.015862009,Empleo,high,CHL,Nivel educativo,Empleado
+3,-.10959439,.015434008,Empleo,high,CHL,Nivel educativo,Empleado
+4,-.11485249,.015933955,Empleo,high,CHL,Nivel educativo,Empleado
+5,-.13231064,.01660537,Empleo,high,CHL,Nivel educativo,Empleado
+6,-.12436569,.017565859,Empleo,high,CHL,Nivel educativo,Empleado
+7,-.13619153,.018566944,Empleo,high,CHL,Nivel educativo,Empleado
+8,-.13894229,.019573662,Empleo,high,CHL,Nivel educativo,Empleado
+9,-.14804237,.0216853,Empleo,high,CHL,Nivel educativo,Empleado
+10,-.14611158,.023368813,Empleo,high,CHL,Nivel educativo,Empleado
+-5,.0057092956,.0047570947,Empleo,high,BRA,Nivel educativo,Empleado
+-4,.0032716461,.0044488376,Empleo,high,BRA,Nivel educativo,Empleado
+-3,.0018688395,.0042208578,Empleo,high,BRA,Nivel educativo,Empleado
+-2,0,0,Empleo,high,BRA,Nivel educativo,Empleado
+-1,-.00363605,.0039730412,Empleo,high,BRA,Nivel educativo,Empleado
+0,-.11034042,.012855405,Empleo,high,BRA,Nivel educativo,Empleado
+1,-.1216367,.013526407,Empleo,high,BRA,Nivel educativo,Empleado
+2,-.091117315,.013323953,Empleo,high,BRA,Nivel educativo,Empleado
+3,-.08265575,.013391097,Empleo,high,BRA,Nivel educativo,Empleado
+4,-.085497908,.014244067,Empleo,high,BRA,Nivel educativo,Empleado
+5,-.072191291,.014590278,Empleo,high,BRA,Nivel educativo,Empleado
+6,-.078525536,.015499863,Empleo,high,BRA,Nivel educativo,Empleado
+7,-.079996683,.016545055,Empleo,high,BRA,Nivel educativo,Empleado
+8,-.080344751,.017458577,Empleo,high,BRA,Nivel educativo,Empleado
+9,-.081531353,.018309262,Empleo,high,BRA,Nivel educativo,Empleado
+10,-.088311441,.019897334,Empleo,high,BRA,Nivel educativo,Empleado
+-5,.0017072873,.05797483,Empleo,high,BOL,Nivel educativo,Empleado
+-4,-.0059408001,.048602849,Empleo,high,BOL,Nivel educativo,Empleado
+-3,-.036856268,.045095719,Empleo,high,BOL,Nivel educativo,Empleado
+-2,0,0,Empleo,high,BOL,Nivel educativo,Empleado
+-1,-.030731738,.040382851,Empleo,high,BOL,Nivel educativo,Empleado
+0,-.27415696,.070594132,Empleo,high,BOL,Nivel educativo,Empleado
+1,-.18034843,.075901754,Empleo,high,BOL,Nivel educativo,Empleado
+2,-.15803827,.074843399,Empleo,high,BOL,Nivel educativo,Empleado
+3,-.14345875,.074224442,Empleo,high,BOL,Nivel educativo,Empleado
+4,-.17579511,.082040191,Empleo,high,BOL,Nivel educativo,Empleado
+5,-.20129606,.089017734,Empleo,high,BOL,Nivel educativo,Empleado
+6,-.19751553,.094295464,Empleo,high,BOL,Nivel educativo,Empleado
+7,-.22182184,.11495659,Empleo,high,BOL,Nivel educativo,Empleado
+8,-.040128242,.10524596,Empleo,high,BOL,Nivel educativo,Empleado
+9,-.084402338,.095180757,Empleo,high,BOL,Nivel educativo,Empleado
+10,-.23036826,.11716186,Empleo,high,BOL,Nivel educativo,Empleado
+-5,.024123969,.009353145,Empleo,high,ARG,Nivel educativo,Empleado
+-4,.016582564,.0083534997,Empleo,high,ARG,Nivel educativo,Empleado
+-3,.008388455,.0076687704,Empleo,high,ARG,Nivel educativo,Empleado
+-2,0,0,Empleo,high,ARG,Nivel educativo,Empleado
+-1,-.0064160642,.0068346271,Empleo,high,ARG,Nivel educativo,Empleado
+0,-.12972854,.016573526,Empleo,high,ARG,Nivel educativo,Empleado
+1,-.13867055,.01718975,Empleo,high,ARG,Nivel educativo,Empleado
+2,-.13308913,.018057255,Empleo,high,ARG,Nivel educativo,Empleado
+3,-.13743088,.018835079,Empleo,high,ARG,Nivel educativo,Empleado
+4,-.15497297,.020624913,Empleo,high,ARG,Nivel educativo,Empleado
+5,-.13450029,.021292586,Empleo,high,ARG,Nivel educativo,Empleado
+6,-.13612182,.023442451,Empleo,high,ARG,Nivel educativo,Empleado
+7,-.15026183,.025667839,Empleo,high,ARG,Nivel educativo,Empleado
+8,-.16533406,.028120741,Empleo,high,ARG,Nivel educativo,Empleado
+9,-.14833826,.02990335,Empleo,high,ARG,Nivel educativo,Empleado
+10,-.18121246,.037500136,Empleo,high,ARG,Nivel educativo,Empleado
+-5,.008415035,.0037570125,Participación laboral,high,URY,Nivel educativo,Participación laboral femenina
+-4,.0069155702,.0034514691,Participación laboral,high,URY,Nivel educativo,Participación laboral femenina
+-3,.0038460765,.0031667533,Participación laboral,high,URY,Nivel educativo,Participación laboral femenina
+-2,0,0,Participación laboral,high,URY,Nivel educativo,Participación laboral femenina
+-1,-.00016002991,.0029168252,Participación laboral,high,URY,Nivel educativo,Participación laboral femenina
+0,-.051779494,.012946904,Participación laboral,high,URY,Nivel educativo,Participación laboral femenina
+1,-.045352794,.012558982,Participación laboral,high,URY,Nivel educativo,Participación laboral femenina
+2,-.045048647,.012295562,Participación laboral,high,URY,Nivel educativo,Participación laboral femenina
+3,-.050489094,.012902002,Participación laboral,high,URY,Nivel educativo,Participación laboral femenina
+4,-.043935772,.012632073,Participación laboral,high,URY,Nivel educativo,Participación laboral femenina
+5,-.029521156,.011857051,Participación laboral,high,URY,Nivel educativo,Participación laboral femenina
+6,-.043061417,.014197279,Participación laboral,high,URY,Nivel educativo,Participación laboral femenina
+7,-.045481566,.015195097,Participación laboral,high,URY,Nivel educativo,Participación laboral femenina
+8,-.041082531,.016096057,Participación laboral,high,URY,Nivel educativo,Participación laboral femenina
+9,-.043010388,.017309081,Participación laboral,high,URY,Nivel educativo,Participación laboral femenina
+10,-.044285424,.019888565,Participación laboral,high,URY,Nivel educativo,Participación laboral femenina
+-5,.01491553,.030621428,Participación laboral,high,PRY,Nivel educativo,Participación laboral femenina
+-4,-.0034585351,.028168773,Participación laboral,high,PRY,Nivel educativo,Participación laboral femenina
+-3,.020072168,.025809491,Participación laboral,high,PRY,Nivel educativo,Participación laboral femenina
+-2,0,0,Participación laboral,high,PRY,Nivel educativo,Participación laboral femenina
+-1,.010231011,.024536202,Participación laboral,high,PRY,Nivel educativo,Participación laboral femenina
+0,-.11597259,.060359497,Participación laboral,high,PRY,Nivel educativo,Participación laboral femenina
+1,-.089518324,.059955668,Participación laboral,high,PRY,Nivel educativo,Participación laboral femenina
+2,-.066148505,.054836374,Participación laboral,high,PRY,Nivel educativo,Participación laboral femenina
+3,-.029029328,.055968013,Participación laboral,high,PRY,Nivel educativo,Participación laboral femenina
+4,-.023262411,.055999991,Participación laboral,high,PRY,Nivel educativo,Participación laboral femenina
+5,-.023495773,.058761381,Participación laboral,high,PRY,Nivel educativo,Participación laboral femenina
+6,-.087147281,.071078889,Participación laboral,high,PRY,Nivel educativo,Participación laboral femenina
+7,.0053705596,.061609648,Participación laboral,high,PRY,Nivel educativo,Participación laboral femenina
+8,-.016985912,.068735108,Participación laboral,high,PRY,Nivel educativo,Participación laboral femenina
+9,-.034643084,.076656073,Participación laboral,high,PRY,Nivel educativo,Participación laboral femenina
+10,.007039051,.071572967,Participación laboral,high,PRY,Nivel educativo,Participación laboral femenina
+-5,.030712906,.050719991,Participación laboral,high,PER,Nivel educativo,Participación laboral femenina
+-4,-.0085618282,.047206763,Participación laboral,high,PER,Nivel educativo,Participación laboral femenina
+-3,.043057982,.041021988,Participación laboral,high,PER,Nivel educativo,Participación laboral femenina
+-2,0,0,Participación laboral,high,PER,Nivel educativo,Participación laboral femenina
+-1,-.014875433,.038855571,Participación laboral,high,PER,Nivel educativo,Participación laboral femenina
+0,-.27394813,.077053331,Participación laboral,high,PER,Nivel educativo,Participación laboral femenina
+1,-.11796472,.06878271,Participación laboral,high,PER,Nivel educativo,Participación laboral femenina
+2,-.058782641,.063980222,Participación laboral,high,PER,Nivel educativo,Participación laboral femenina
+3,-.055151943,.072044656,Participación laboral,high,PER,Nivel educativo,Participación laboral femenina
+4,-.014383119,.069354504,Participación laboral,high,PER,Nivel educativo,Participación laboral femenina
+5,-.042481069,.072325245,Participación laboral,high,PER,Nivel educativo,Participación laboral femenina
+6,-.079810582,.078695193,Participación laboral,high,PER,Nivel educativo,Participación laboral femenina
+7,-.13632557,.092990704,Participación laboral,high,PER,Nivel educativo,Participación laboral femenina
+8,-.071544513,.091750324,Participación laboral,high,PER,Nivel educativo,Participación laboral femenina
+9,-.063232057,.10110658,Participación laboral,high,PER,Nivel educativo,Participación laboral femenina
+10,-.036059037,.10866637,Participación laboral,high,PER,Nivel educativo,Participación laboral femenina
+-5,-.0068848883,.022935713,Participación laboral,high,PAN,Nivel educativo,Participación laboral femenina
+-4,.0022172446,.02063678,Participación laboral,high,PAN,Nivel educativo,Participación laboral femenina
+-3,-.0047975383,.019186947,Participación laboral,high,PAN,Nivel educativo,Participación laboral femenina
+-2,0,0,Participación laboral,high,PAN,Nivel educativo,Participación laboral femenina
+-1,-.0083920378,.016818827,Participación laboral,high,PAN,Nivel educativo,Participación laboral femenina
+0,-.1528032,.047796544,Participación laboral,high,PAN,Nivel educativo,Participación laboral femenina
+1,-.15063289,.04940952,Participación laboral,high,PAN,Nivel educativo,Participación laboral femenina
+2,-.090578675,.041949175,Participación laboral,high,PAN,Nivel educativo,Participación laboral femenina
+3,-.099708602,.045218829,Participación laboral,high,PAN,Nivel educativo,Participación laboral femenina
+4,-.11698377,.04703239,Participación laboral,high,PAN,Nivel educativo,Participación laboral femenina
+5,-.10831861,.046774086,Participación laboral,high,PAN,Nivel educativo,Participación laboral femenina
+6,-.10116106,.049836103,Participación laboral,high,PAN,Nivel educativo,Participación laboral femenina
+7,-.11445256,.055803601,Participación laboral,high,PAN,Nivel educativo,Participación laboral femenina
+8,-.12135649,.058161117,Participación laboral,high,PAN,Nivel educativo,Participación laboral femenina
+9,-.10787585,.057067361,Participación laboral,high,PAN,Nivel educativo,Participación laboral femenina
+10,-.1128692,.063464306,Participación laboral,high,PAN,Nivel educativo,Participación laboral femenina
+-5,.0056043137,.0038033968,Participación laboral,high,MEX,Nivel educativo,Participación laboral femenina
+-4,.0030936494,.0033518469,Participación laboral,high,MEX,Nivel educativo,Participación laboral femenina
+-3,.000026393465,.0030317176,Participación laboral,high,MEX,Nivel educativo,Participación laboral femenina
+-2,0,0,Participación laboral,high,MEX,Nivel educativo,Participación laboral femenina
+-1,-.0023807304,.0026436853,Participación laboral,high,MEX,Nivel educativo,Participación laboral femenina
+0,-.16311301,.0095901713,Participación laboral,high,MEX,Nivel educativo,Participación laboral femenina
+1,-.14897895,.0092501249,Participación laboral,high,MEX,Nivel educativo,Participación laboral femenina
+2,-.13477643,.0094571346,Participación laboral,high,MEX,Nivel educativo,Participación laboral femenina
+3,-.13835846,.0097806314,Participación laboral,high,MEX,Nivel educativo,Participación laboral femenina
+4,-.14382939,.010362573,Participación laboral,high,MEX,Nivel educativo,Participación laboral femenina
+5,-.1237504,.010717602,Participación laboral,high,MEX,Nivel educativo,Participación laboral femenina
+6,-.1333618,.011572945,Participación laboral,high,MEX,Nivel educativo,Participación laboral femenina
+7,-.14588618,.012662629,Participación laboral,high,MEX,Nivel educativo,Participación laboral femenina
+8,-.1368618,.013717961,Participación laboral,high,MEX,Nivel educativo,Participación laboral femenina
+9,-.14151688,.015000967,Participación laboral,high,MEX,Nivel educativo,Participación laboral femenina
+10,-.14903627,.017805617,Participación laboral,high,MEX,Nivel educativo,Participación laboral femenina
+-5,-.020746706,.02919044,Participación laboral,high,ECU,Nivel educativo,Participación laboral femenina
+-4,-.022490982,.025836049,Participación laboral,high,ECU,Nivel educativo,Participación laboral femenina
+-3,-.01049602,.023532569,Participación laboral,high,ECU,Nivel educativo,Participación laboral femenina
+-2,0,0,Participación laboral,high,ECU,Nivel educativo,Participación laboral femenina
+-1,-.026536867,.019736646,Participación laboral,high,ECU,Nivel educativo,Participación laboral femenina
+0,-.20085247,.052326538,Participación laboral,high,ECU,Nivel educativo,Participación laboral femenina
+1,-.20101033,.05139799,Participación laboral,high,ECU,Nivel educativo,Participación laboral femenina
+2,-.14425655,.046489995,Participación laboral,high,ECU,Nivel educativo,Participación laboral femenina
+3,-.1802853,.051982358,Participación laboral,high,ECU,Nivel educativo,Participación laboral femenina
+4,-.12676051,.048364446,Participación laboral,high,ECU,Nivel educativo,Participación laboral femenina
+5,-.14364527,.051841021,Participación laboral,high,ECU,Nivel educativo,Participación laboral femenina
+6,-.1560996,.055752322,Participación laboral,high,ECU,Nivel educativo,Participación laboral femenina
+7,-.15927462,.057053559,Participación laboral,high,ECU,Nivel educativo,Participación laboral femenina
+8,-.20047985,.069525629,Participación laboral,high,ECU,Nivel educativo,Participación laboral femenina
+9,-.16625538,.072772637,Participación laboral,high,ECU,Nivel educativo,Participación laboral femenina
+10,-.19192126,.10083349,Participación laboral,high,ECU,Nivel educativo,Participación laboral femenina
+-5,.0055942503,.021690654,Participación laboral,high,CRI,Nivel educativo,Participación laboral femenina
+-4,-.0022754062,.020271162,Participación laboral,high,CRI,Nivel educativo,Participación laboral femenina
+-3,-.0082537979,.019056745,Participación laboral,high,CRI,Nivel educativo,Participación laboral femenina
+-2,0,0,Participación laboral,high,CRI,Nivel educativo,Participación laboral femenina
+-1,-.0038665493,.016646285,Participación laboral,high,CRI,Nivel educativo,Participación laboral femenina
+0,-.18119855,.05232989,Participación laboral,high,CRI,Nivel educativo,Participación laboral femenina
+1,-.10051203,.045380786,Participación laboral,high,CRI,Nivel educativo,Participación laboral femenina
+2,-.15716502,.049323741,Participación laboral,high,CRI,Nivel educativo,Participación laboral femenina
+3,-.15038958,.051210366,Participación laboral,high,CRI,Nivel educativo,Participación laboral femenina
+4,-.12279825,.049324166,Participación laboral,high,CRI,Nivel educativo,Participación laboral femenina
+5,-.12267561,.054594353,Participación laboral,high,CRI,Nivel educativo,Participación laboral femenina
+6,-.14651792,.065181032,Participación laboral,high,CRI,Nivel educativo,Participación laboral femenina
+7,-.12222891,.062463343,Participación laboral,high,CRI,Nivel educativo,Participación laboral femenina
+8,-.12255523,.063098751,Participación laboral,high,CRI,Nivel educativo,Participación laboral femenina
+9,-.13329461,.068622693,Participación laboral,high,CRI,Nivel educativo,Participación laboral femenina
+10,-.11431658,.072225198,Participación laboral,high,CRI,Nivel educativo,Participación laboral femenina
+-5,.0090519767,.0043662065,Participación laboral,high,COL,Nivel educativo,Participación laboral femenina
+-4,.0030851411,.0037990562,Participación laboral,high,COL,Nivel educativo,Participación laboral femenina
+-3,.0036597261,.0033399665,Participación laboral,high,COL,Nivel educativo,Participación laboral femenina
+-2,0,0,Participación laboral,high,COL,Nivel educativo,Participación laboral femenina
+-1,-.0047273589,.0029331569,Participación laboral,high,COL,Nivel educativo,Participación laboral femenina
+0,-.15677018,.010353583,Participación laboral,high,COL,Nivel educativo,Participación laboral femenina
+1,-.091907263,.0094743893,Participación laboral,high,COL,Nivel educativo,Participación laboral femenina
+2,-.079295032,.009558809,Participación laboral,high,COL,Nivel educativo,Participación laboral femenina
+3,-.067246243,.0097384145,Participación laboral,high,COL,Nivel educativo,Participación laboral femenina
+4,-.078371137,.010656447,Participación laboral,high,COL,Nivel educativo,Participación laboral femenina
+5,-.092505202,.012011285,Participación laboral,high,COL,Nivel educativo,Participación laboral femenina
+6,-.083250783,.012778439,Participación laboral,high,COL,Nivel educativo,Participación laboral femenina
+7,-.090949327,.014856535,Participación laboral,high,COL,Nivel educativo,Participación laboral femenina
+8,-.07897035,.016801747,Participación laboral,high,COL,Nivel educativo,Participación laboral femenina
+9,-.075351596,.020282675,Participación laboral,high,COL,Nivel educativo,Participación laboral femenina
+10,-.10974625,.030984148,Participación laboral,high,COL,Nivel educativo,Participación laboral femenina
+-5,.01695196,.0067309905,Participación laboral,high,CHL,Nivel educativo,Participación laboral femenina
+-4,.0069098566,.0060699461,Participación laboral,high,CHL,Nivel educativo,Participación laboral femenina
+-3,.00053894304,.0055934307,Participación laboral,high,CHL,Nivel educativo,Participación laboral femenina
+-2,0,0,Participación laboral,high,CHL,Nivel educativo,Participación laboral femenina
+-1,-.012950095,.0050287331,Participación laboral,high,CHL,Nivel educativo,Participación laboral femenina
+0,-.10229494,.015423431,Participación laboral,high,CHL,Nivel educativo,Participación laboral femenina
+1,-.12020915,.015392915,Participación laboral,high,CHL,Nivel educativo,Participación laboral femenina
+2,-.12396973,.014826681,Participación laboral,high,CHL,Nivel educativo,Participación laboral femenina
+3,-.11785366,.014348323,Participación laboral,high,CHL,Nivel educativo,Participación laboral femenina
+4,-.12129831,.014804644,Participación laboral,high,CHL,Nivel educativo,Participación laboral femenina
+5,-.1421259,.015582032,Participación laboral,high,CHL,Nivel educativo,Participación laboral femenina
+6,-.14087191,.01663716,Participación laboral,high,CHL,Nivel educativo,Participación laboral femenina
+7,-.1543406,.017621111,Participación laboral,high,CHL,Nivel educativo,Participación laboral femenina
+8,-.14840655,.018390467,Participación laboral,high,CHL,Nivel educativo,Participación laboral femenina
+9,-.15234086,.020289203,Participación laboral,high,CHL,Nivel educativo,Participación laboral femenina
+10,-.15529713,.021981953,Participación laboral,high,CHL,Nivel educativo,Participación laboral femenina
+-5,.0035916849,.0039325464,Participación laboral,high,BRA,Nivel educativo,Participación laboral femenina
+-4,.0016676033,.0036883079,Participación laboral,high,BRA,Nivel educativo,Participación laboral femenina
+-3,-.00052454119,.003504449,Participación laboral,high,BRA,Nivel educativo,Participación laboral femenina
+-2,0,0,Participación laboral,high,BRA,Nivel educativo,Participación laboral femenina
+-1,-.0029456418,.003261911,Participación laboral,high,BRA,Nivel educativo,Participación laboral femenina
+0,-.12905812,.012228891,Participación laboral,high,BRA,Nivel educativo,Participación laboral femenina
+1,-.12195177,.012508979,Participación laboral,high,BRA,Nivel educativo,Participación laboral femenina
+2,-.086019427,.0119888,Participación laboral,high,BRA,Nivel educativo,Participación laboral femenina
+3,-.078555696,.012025086,Participación laboral,high,BRA,Nivel educativo,Participación laboral femenina
+4,-.084540881,.012875288,Participación laboral,high,BRA,Nivel educativo,Participación laboral femenina
+5,-.077444471,.013300524,Participación laboral,high,BRA,Nivel educativo,Participación laboral femenina
+6,-.087093033,.014279038,Participación laboral,high,BRA,Nivel educativo,Participación laboral femenina
+7,-.075736776,.014859823,Participación laboral,high,BRA,Nivel educativo,Participación laboral femenina
+8,-.08216662,.015873315,Participación laboral,high,BRA,Nivel educativo,Participación laboral femenina
+9,-.08256311,.016666735,Participación laboral,high,BRA,Nivel educativo,Participación laboral femenina
+10,-.089184538,.018080423,Participación laboral,high,BRA,Nivel educativo,Participación laboral femenina
+-5,.014029212,.053993817,Participación laboral,high,BOL,Nivel educativo,Participación laboral femenina
+-4,.02161796,.044573005,Participación laboral,high,BOL,Nivel educativo,Participación laboral femenina
+-3,-.020315018,.041935183,Participación laboral,high,BOL,Nivel educativo,Participación laboral femenina
+-2,0,0,Participación laboral,high,BOL,Nivel educativo,Participación laboral femenina
+-1,-.015794255,.03711741,Participación laboral,high,BOL,Nivel educativo,Participación laboral femenina
+0,-.29810002,.06865292,Participación laboral,high,BOL,Nivel educativo,Participación laboral femenina
+1,-.18990803,.07269524,Participación laboral,high,BOL,Nivel educativo,Participación laboral femenina
+2,-.16381724,.071229056,Participación laboral,high,BOL,Nivel educativo,Participación laboral femenina
+3,-.17728455,.071598545,Participación laboral,high,BOL,Nivel educativo,Participación laboral femenina
+4,-.21078736,.078968085,Participación laboral,high,BOL,Nivel educativo,Participación laboral femenina
+5,-.23504731,.086205587,Participación laboral,high,BOL,Nivel educativo,Participación laboral femenina
+6,-.20378326,.089610659,Participación laboral,high,BOL,Nivel educativo,Participación laboral femenina
+7,-.23361953,.10984952,Participación laboral,high,BOL,Nivel educativo,Participación laboral femenina
+8,-.088383794,.10329664,Participación laboral,high,BOL,Nivel educativo,Participación laboral femenina
+9,-.11193014,.090923369,Participación laboral,high,BOL,Nivel educativo,Participación laboral femenina
+10,-.21118017,.11011148,Participación laboral,high,BOL,Nivel educativo,Participación laboral femenina
+-5,.025067687,.0082932729,Participación laboral,high,ARG,Nivel educativo,Participación laboral femenina
+-4,.014839162,.0074571739,Participación laboral,high,ARG,Nivel educativo,Participación laboral femenina
+-3,.0084449323,.0068559502,Participación laboral,high,ARG,Nivel educativo,Participación laboral femenina
+-2,0,0,Participación laboral,high,ARG,Nivel educativo,Participación laboral femenina
+-1,-.0051873657,.0060727051,Participación laboral,high,ARG,Nivel educativo,Participación laboral femenina
+0,-.14067024,.015911864,Participación laboral,high,ARG,Nivel educativo,Participación laboral femenina
+1,-.13470694,.016181128,Participación laboral,high,ARG,Nivel educativo,Participación laboral femenina
+2,-.13379426,.017095152,Participación laboral,high,ARG,Nivel educativo,Participación laboral femenina
+3,-.13133809,.017620672,Participación laboral,high,ARG,Nivel educativo,Participación laboral femenina
+4,-.14917408,.019421272,Participación laboral,high,ARG,Nivel educativo,Participación laboral femenina
+5,-.13301821,.020054154,Participación laboral,high,ARG,Nivel educativo,Participación laboral femenina
+6,-.13524388,.022100687,Participación laboral,high,ARG,Nivel educativo,Participación laboral femenina
+7,-.14546624,.024088481,Participación laboral,high,ARG,Nivel educativo,Participación laboral femenina
+8,-.15514573,.026138961,Participación laboral,high,ARG,Nivel educativo,Participación laboral femenina
+9,-.13276698,.027132418,Participación laboral,high,ARG,Nivel educativo,Participación laboral femenina
+10,-.17221114,.034835193,Participación laboral,high,ARG,Nivel educativo,Participación laboral femenina
+-5,3.8554661,3.099014,Ingreso laboral,low,URY,Nivel educativo,Ingreso laboral total
+-4,2.9147675,2.8835485,Ingreso laboral,low,URY,Nivel educativo,Ingreso laboral total
+-3,.40381545,2.6928618,Ingreso laboral,low,URY,Nivel educativo,Ingreso laboral total
+-2,0,0,Ingreso laboral,low,URY,Nivel educativo,Ingreso laboral total
+-1,-.3948653,2.6465046,Ingreso laboral,low,URY,Nivel educativo,Ingreso laboral total
+0,-64.383705,12.983373,Ingreso laboral,low,URY,Nivel educativo,Ingreso laboral total
+1,-41.638924,8.9145451,Ingreso laboral,low,URY,Nivel educativo,Ingreso laboral total
+2,-50.250519,8.5642653,Ingreso laboral,low,URY,Nivel educativo,Ingreso laboral total
+3,-45.864014,8.9555101,Ingreso laboral,low,URY,Nivel educativo,Ingreso laboral total
+4,-48.876945,9.094636,Ingreso laboral,low,URY,Nivel educativo,Ingreso laboral total
+5,-41.84214,11.632614,Ingreso laboral,low,URY,Nivel educativo,Ingreso laboral total
+6,-44.134071,11.550678,Ingreso laboral,low,URY,Nivel educativo,Ingreso laboral total
+7,-41.75729,11.274966,Ingreso laboral,low,URY,Nivel educativo,Ingreso laboral total
+8,-42.087185,13.035412,Ingreso laboral,low,URY,Nivel educativo,Ingreso laboral total
+9,-32.509903,14.201164,Ingreso laboral,low,URY,Nivel educativo,Ingreso laboral total
+10,-48.052067,15.295442,Ingreso laboral,low,URY,Nivel educativo,Ingreso laboral total
+-5,-5.8323064,26.761148,Ingreso laboral,low,PRY,Nivel educativo,Ingreso laboral total
+-4,-9.9372368,27.339705,Ingreso laboral,low,PRY,Nivel educativo,Ingreso laboral total
+-3,-7.7665052,27.288666,Ingreso laboral,low,PRY,Nivel educativo,Ingreso laboral total
+-2,0,0,Ingreso laboral,low,PRY,Nivel educativo,Ingreso laboral total
+-1,-18.926807,30.153322,Ingreso laboral,low,PRY,Nivel educativo,Ingreso laboral total
+0,-79.19194,58.664043,Ingreso laboral,low,PRY,Nivel educativo,Ingreso laboral total
+1,-79.061928,52.465038,Ingreso laboral,low,PRY,Nivel educativo,Ingreso laboral total
+2,-51.032833,64.956238,Ingreso laboral,low,PRY,Nivel educativo,Ingreso laboral total
+3,-53.30191,66.645737,Ingreso laboral,low,PRY,Nivel educativo,Ingreso laboral total
+4,-69.898079,71.668037,Ingreso laboral,low,PRY,Nivel educativo,Ingreso laboral total
+5,-90.389091,71.426987,Ingreso laboral,low,PRY,Nivel educativo,Ingreso laboral total
+6,-2.6258185,111.44119,Ingreso laboral,low,PRY,Nivel educativo,Ingreso laboral total
+7,8.6656265,86.881294,Ingreso laboral,low,PRY,Nivel educativo,Ingreso laboral total
+8,-50.926838,77.152145,Ingreso laboral,low,PRY,Nivel educativo,Ingreso laboral total
+9,-6.6273947,83.860825,Ingreso laboral,low,PRY,Nivel educativo,Ingreso laboral total
+10,-52.347614,69.429153,Ingreso laboral,low,PRY,Nivel educativo,Ingreso laboral total
+-5,1.1661067,24.46493,Ingreso laboral,low,PER,Nivel educativo,Ingreso laboral total
+-4,29.613001,33.576927,Ingreso laboral,low,PER,Nivel educativo,Ingreso laboral total
+-3,12.581141,27.781916,Ingreso laboral,low,PER,Nivel educativo,Ingreso laboral total
+-2,0,0,Ingreso laboral,low,PER,Nivel educativo,Ingreso laboral total
+-1,4.0481601,24.274036,Ingreso laboral,low,PER,Nivel educativo,Ingreso laboral total
+0,-94.507462,31.712429,Ingreso laboral,low,PER,Nivel educativo,Ingreso laboral total
+1,-90.475624,52.94088,Ingreso laboral,low,PER,Nivel educativo,Ingreso laboral total
+2,-78.681473,37.54311,Ingreso laboral,low,PER,Nivel educativo,Ingreso laboral total
+3,-79.17601,41.769905,Ingreso laboral,low,PER,Nivel educativo,Ingreso laboral total
+4,-92.304413,42.638607,Ingreso laboral,low,PER,Nivel educativo,Ingreso laboral total
+5,-113.35477,39.579674,Ingreso laboral,low,PER,Nivel educativo,Ingreso laboral total
+6,-83.900597,44.932907,Ingreso laboral,low,PER,Nivel educativo,Ingreso laboral total
+7,-90.878677,45.819099,Ingreso laboral,low,PER,Nivel educativo,Ingreso laboral total
+8,-47.492836,46.84557,Ingreso laboral,low,PER,Nivel educativo,Ingreso laboral total
+9,-25.62974,58.323463,Ingreso laboral,low,PER,Nivel educativo,Ingreso laboral total
+10,-84.755753,49.71212,Ingreso laboral,low,PER,Nivel educativo,Ingreso laboral total
+-5,2.5298052,23.995623,Ingreso laboral,low,PAN,Nivel educativo,Ingreso laboral total
+-4,18.646315,27.605854,Ingreso laboral,low,PAN,Nivel educativo,Ingreso laboral total
+-3,10.163766,21.672369,Ingreso laboral,low,PAN,Nivel educativo,Ingreso laboral total
+-2,0,0,Ingreso laboral,low,PAN,Nivel educativo,Ingreso laboral total
+-1,-1.0479203,20.838394,Ingreso laboral,low,PAN,Nivel educativo,Ingreso laboral total
+0,-71.657799,72.778725,Ingreso laboral,low,PAN,Nivel educativo,Ingreso laboral total
+1,-125.91721,42.836605,Ingreso laboral,low,PAN,Nivel educativo,Ingreso laboral total
+2,-73.001427,53.671124,Ingreso laboral,low,PAN,Nivel educativo,Ingreso laboral total
+3,-71.435684,54.484772,Ingreso laboral,low,PAN,Nivel educativo,Ingreso laboral total
+4,-93.313362,46.840122,Ingreso laboral,low,PAN,Nivel educativo,Ingreso laboral total
+5,-61.545372,52.802731,Ingreso laboral,low,PAN,Nivel educativo,Ingreso laboral total
+6,-58.754715,55.597301,Ingreso laboral,low,PAN,Nivel educativo,Ingreso laboral total
+7,-69.456795,54.806229,Ingreso laboral,low,PAN,Nivel educativo,Ingreso laboral total
+8,-115.41702,51.862991,Ingreso laboral,low,PAN,Nivel educativo,Ingreso laboral total
+9,-72.088539,62.656666,Ingreso laboral,low,PAN,Nivel educativo,Ingreso laboral total
+10,-72.924065,69.378609,Ingreso laboral,low,PAN,Nivel educativo,Ingreso laboral total
+-5,1.7786258,3.8073609,Ingreso laboral,low,MEX,Nivel educativo,Ingreso laboral total
+-4,2.7108746,3.2955894,Ingreso laboral,low,MEX,Nivel educativo,Ingreso laboral total
+-3,2.303705,3.0869811,Ingreso laboral,low,MEX,Nivel educativo,Ingreso laboral total
+-2,0,0,Ingreso laboral,low,MEX,Nivel educativo,Ingreso laboral total
+-1,-1.8780893,2.8636024,Ingreso laboral,low,MEX,Nivel educativo,Ingreso laboral total
+0,-87.964348,6.3757539,Ingreso laboral,low,MEX,Nivel educativo,Ingreso laboral total
+1,-79.642052,5.9773407,Ingreso laboral,low,MEX,Nivel educativo,Ingreso laboral total
+2,-72.491394,6.2944751,Ingreso laboral,low,MEX,Nivel educativo,Ingreso laboral total
+3,-75.562988,6.437809,Ingreso laboral,low,MEX,Nivel educativo,Ingreso laboral total
+4,-78.288116,6.1205158,Ingreso laboral,low,MEX,Nivel educativo,Ingreso laboral total
+5,-81.459579,6.2596035,Ingreso laboral,low,MEX,Nivel educativo,Ingreso laboral total
+6,-89.431976,6.431097,Ingreso laboral,low,MEX,Nivel educativo,Ingreso laboral total
+7,-80.841469,7.0231586,Ingreso laboral,low,MEX,Nivel educativo,Ingreso laboral total
+8,-84.957069,7.5018263,Ingreso laboral,low,MEX,Nivel educativo,Ingreso laboral total
+9,-77.378342,7.844625,Ingreso laboral,low,MEX,Nivel educativo,Ingreso laboral total
+10,-70.083,9.1347666,Ingreso laboral,low,MEX,Nivel educativo,Ingreso laboral total
+-5,4.4635854,15.601089,Ingreso laboral,low,ECU,Nivel educativo,Ingreso laboral total
+-4,5.4743452,14.800159,Ingreso laboral,low,ECU,Nivel educativo,Ingreso laboral total
+-3,-10.685478,13.245834,Ingreso laboral,low,ECU,Nivel educativo,Ingreso laboral total
+-2,0,0,Ingreso laboral,low,ECU,Nivel educativo,Ingreso laboral total
+-1,-5.9146881,12.675954,Ingreso laboral,low,ECU,Nivel educativo,Ingreso laboral total
+0,-107.85915,24.397175,Ingreso laboral,low,ECU,Nivel educativo,Ingreso laboral total
+1,-106.552,24.151644,Ingreso laboral,low,ECU,Nivel educativo,Ingreso laboral total
+2,-101.97083,28.238905,Ingreso laboral,low,ECU,Nivel educativo,Ingreso laboral total
+3,-95.902618,24.880718,Ingreso laboral,low,ECU,Nivel educativo,Ingreso laboral total
+4,-81.830276,26.938293,Ingreso laboral,low,ECU,Nivel educativo,Ingreso laboral total
+5,-111.4054,24.587366,Ingreso laboral,low,ECU,Nivel educativo,Ingreso laboral total
+6,-53.269787,51.879494,Ingreso laboral,low,ECU,Nivel educativo,Ingreso laboral total
+7,-67.197449,48.593922,Ingreso laboral,low,ECU,Nivel educativo,Ingreso laboral total
+8,-84.834557,33.687908,Ingreso laboral,low,ECU,Nivel educativo,Ingreso laboral total
+9,-83.202415,41.743313,Ingreso laboral,low,ECU,Nivel educativo,Ingreso laboral total
+10,-79.941994,40.697182,Ingreso laboral,low,ECU,Nivel educativo,Ingreso laboral total
+-5,2.5090549,39.020885,Ingreso laboral,low,CRI,Nivel educativo,Ingreso laboral total
+-4,-4.9134398,32.760006,Ingreso laboral,low,CRI,Nivel educativo,Ingreso laboral total
+-3,-22.329432,29.59325,Ingreso laboral,low,CRI,Nivel educativo,Ingreso laboral total
+-2,0,0,Ingreso laboral,low,CRI,Nivel educativo,Ingreso laboral total
+-1,-27.493063,29.340368,Ingreso laboral,low,CRI,Nivel educativo,Ingreso laboral total
+0,-173.22479,41.542477,Ingreso laboral,low,CRI,Nivel educativo,Ingreso laboral total
+1,-190.22479,41.957291,Ingreso laboral,low,CRI,Nivel educativo,Ingreso laboral total
+2,-164.09607,46.897083,Ingreso laboral,low,CRI,Nivel educativo,Ingreso laboral total
+3,-195.73993,46.45985,Ingreso laboral,low,CRI,Nivel educativo,Ingreso laboral total
+4,-174.81851,54.160728,Ingreso laboral,low,CRI,Nivel educativo,Ingreso laboral total
+5,-204.21094,45.059578,Ingreso laboral,low,CRI,Nivel educativo,Ingreso laboral total
+6,-201.23479,44.379955,Ingreso laboral,low,CRI,Nivel educativo,Ingreso laboral total
+7,-161.42056,53.305058,Ingreso laboral,low,CRI,Nivel educativo,Ingreso laboral total
+8,-178.70859,49.219994,Ingreso laboral,low,CRI,Nivel educativo,Ingreso laboral total
+9,-143.556,69.678162,Ingreso laboral,low,CRI,Nivel educativo,Ingreso laboral total
+10,-121.13954,60.394878,Ingreso laboral,low,CRI,Nivel educativo,Ingreso laboral total
+-5,2.5124497,4.8176231,Ingreso laboral,low,COL,Nivel educativo,Ingreso laboral total
+-4,.52612525,4.3976669,Ingreso laboral,low,COL,Nivel educativo,Ingreso laboral total
+-3,3.019587,4.2839532,Ingreso laboral,low,COL,Nivel educativo,Ingreso laboral total
+-2,0,0,Ingreso laboral,low,COL,Nivel educativo,Ingreso laboral total
+-1,-2.4592514,3.6911075,Ingreso laboral,low,COL,Nivel educativo,Ingreso laboral total
+0,-97.232491,7.8691792,Ingreso laboral,low,COL,Nivel educativo,Ingreso laboral total
+1,-89.456085,8.4084721,Ingreso laboral,low,COL,Nivel educativo,Ingreso laboral total
+2,-73.999847,9.7517786,Ingreso laboral,low,COL,Nivel educativo,Ingreso laboral total
+3,-74.632988,9.1446791,Ingreso laboral,low,COL,Nivel educativo,Ingreso laboral total
+4,-59.676685,10.947841,Ingreso laboral,low,COL,Nivel educativo,Ingreso laboral total
+5,-65.60305,10.840395,Ingreso laboral,low,COL,Nivel educativo,Ingreso laboral total
+6,-67.146065,11.634913,Ingreso laboral,low,COL,Nivel educativo,Ingreso laboral total
+7,-69.327774,12.230676,Ingreso laboral,low,COL,Nivel educativo,Ingreso laboral total
+8,-66.872948,14.842267,Ingreso laboral,low,COL,Nivel educativo,Ingreso laboral total
+9,-64.660629,16.536203,Ingreso laboral,low,COL,Nivel educativo,Ingreso laboral total
+10,-75.071762,21.891487,Ingreso laboral,low,COL,Nivel educativo,Ingreso laboral total
+-5,-16.973381,15.408215,Ingreso laboral,low,CHL,Nivel educativo,Ingreso laboral total
+-4,-8.2430429,17.986277,Ingreso laboral,low,CHL,Nivel educativo,Ingreso laboral total
+-3,-12.359839,16.391146,Ingreso laboral,low,CHL,Nivel educativo,Ingreso laboral total
+-2,0,0,Ingreso laboral,low,CHL,Nivel educativo,Ingreso laboral total
+-1,13.430019,18.415888,Ingreso laboral,low,CHL,Nivel educativo,Ingreso laboral total
+0,-61.535614,18.943733,Ingreso laboral,low,CHL,Nivel educativo,Ingreso laboral total
+1,-55.526012,21.005638,Ingreso laboral,low,CHL,Nivel educativo,Ingreso laboral total
+2,-43.129944,18.344606,Ingreso laboral,low,CHL,Nivel educativo,Ingreso laboral total
+3,-47.857121,17.85236,Ingreso laboral,low,CHL,Nivel educativo,Ingreso laboral total
+4,-67.661507,18.190252,Ingreso laboral,low,CHL,Nivel educativo,Ingreso laboral total
+5,-66.599533,19.196747,Ingreso laboral,low,CHL,Nivel educativo,Ingreso laboral total
+6,-19.518579,17.148188,Ingreso laboral,low,CHL,Nivel educativo,Ingreso laboral total
+7,-30.439455,16.780861,Ingreso laboral,low,CHL,Nivel educativo,Ingreso laboral total
+8,-27.236301,17.938297,Ingreso laboral,low,CHL,Nivel educativo,Ingreso laboral total
+9,-24.159727,18.954044,Ingreso laboral,low,CHL,Nivel educativo,Ingreso laboral total
+10,-18.471285,26.464001,Ingreso laboral,low,CHL,Nivel educativo,Ingreso laboral total
+-5,4.8939376,3.3265426,Ingreso laboral,low,BRA,Nivel educativo,Ingreso laboral total
+-4,.10367671,3.0888801,Ingreso laboral,low,BRA,Nivel educativo,Ingreso laboral total
+-3,-.50263095,2.9042103,Ingreso laboral,low,BRA,Nivel educativo,Ingreso laboral total
+-2,0,0,Ingreso laboral,low,BRA,Nivel educativo,Ingreso laboral total
+-1,-4.9672313,2.9624119,Ingreso laboral,low,BRA,Nivel educativo,Ingreso laboral total
+0,-83.6092,14.357176,Ingreso laboral,low,BRA,Nivel educativo,Ingreso laboral total
+1,-97.882042,6.930428,Ingreso laboral,low,BRA,Nivel educativo,Ingreso laboral total
+2,-88.281853,7.1227059,Ingreso laboral,low,BRA,Nivel educativo,Ingreso laboral total
+3,-79.111755,8.3693275,Ingreso laboral,low,BRA,Nivel educativo,Ingreso laboral total
+4,-77.826981,7.8675437,Ingreso laboral,low,BRA,Nivel educativo,Ingreso laboral total
+5,-72.32724,8.8031368,Ingreso laboral,low,BRA,Nivel educativo,Ingreso laboral total
+6,-70.270775,8.8118038,Ingreso laboral,low,BRA,Nivel educativo,Ingreso laboral total
+7,-69.753151,9.7919636,Ingreso laboral,low,BRA,Nivel educativo,Ingreso laboral total
+8,-76.77726,9.4609842,Ingreso laboral,low,BRA,Nivel educativo,Ingreso laboral total
+9,-68.382561,9.3883562,Ingreso laboral,low,BRA,Nivel educativo,Ingreso laboral total
+10,-61.346989,11.333671,Ingreso laboral,low,BRA,Nivel educativo,Ingreso laboral total
+-5,-13.68484,35.135696,Ingreso laboral,low,BOL,Nivel educativo,Ingreso laboral total
+-4,-29.860172,30.425596,Ingreso laboral,low,BOL,Nivel educativo,Ingreso laboral total
+-3,-19.087883,34.994164,Ingreso laboral,low,BOL,Nivel educativo,Ingreso laboral total
+-2,0,0,Ingreso laboral,low,BOL,Nivel educativo,Ingreso laboral total
+-1,-12.135532,35.939941,Ingreso laboral,low,BOL,Nivel educativo,Ingreso laboral total
+0,-112.89465,75.232315,Ingreso laboral,low,BOL,Nivel educativo,Ingreso laboral total
+1,-101.14824,57.4226,Ingreso laboral,low,BOL,Nivel educativo,Ingreso laboral total
+2,-112.50325,52.724308,Ingreso laboral,low,BOL,Nivel educativo,Ingreso laboral total
+3,-95.281113,62.482822,Ingreso laboral,low,BOL,Nivel educativo,Ingreso laboral total
+4,-146.91202,52.833706,Ingreso laboral,low,BOL,Nivel educativo,Ingreso laboral total
+5,-122.01585,58.799843,Ingreso laboral,low,BOL,Nivel educativo,Ingreso laboral total
+6,-42.374718,90.660843,Ingreso laboral,low,BOL,Nivel educativo,Ingreso laboral total
+7,-55.340527,70.702866,Ingreso laboral,low,BOL,Nivel educativo,Ingreso laboral total
+8,-32.217056,74.818001,Ingreso laboral,low,BOL,Nivel educativo,Ingreso laboral total
+9,-117.6847,61.557823,Ingreso laboral,low,BOL,Nivel educativo,Ingreso laboral total
+10,-64.50489,67.349739,Ingreso laboral,low,BOL,Nivel educativo,Ingreso laboral total
+-5,-15.837007,20.558683,Ingreso laboral,low,ARG,Nivel educativo,Ingreso laboral total
+-4,5.9731536,19.425512,Ingreso laboral,low,ARG,Nivel educativo,Ingreso laboral total
+-3,5.1293626,19.532316,Ingreso laboral,low,ARG,Nivel educativo,Ingreso laboral total
+-2,0,0,Ingreso laboral,low,ARG,Nivel educativo,Ingreso laboral total
+-1,-9.403738,16.669073,Ingreso laboral,low,ARG,Nivel educativo,Ingreso laboral total
+0,-125.43143,28.211336,Ingreso laboral,low,ARG,Nivel educativo,Ingreso laboral total
+1,-137.67574,29.982084,Ingreso laboral,low,ARG,Nivel educativo,Ingreso laboral total
+2,-142.96315,35.120506,Ingreso laboral,low,ARG,Nivel educativo,Ingreso laboral total
+3,-196.50487,30.552702,Ingreso laboral,low,ARG,Nivel educativo,Ingreso laboral total
+4,-160.53297,34.797897,Ingreso laboral,low,ARG,Nivel educativo,Ingreso laboral total
+5,-165.24361,36.46006,Ingreso laboral,low,ARG,Nivel educativo,Ingreso laboral total
+6,-187.34485,36.142628,Ingreso laboral,low,ARG,Nivel educativo,Ingreso laboral total
+7,-182.76729,39.809959,Ingreso laboral,low,ARG,Nivel educativo,Ingreso laboral total
+8,-166.76759,42.667622,Ingreso laboral,low,ARG,Nivel educativo,Ingreso laboral total
+9,-175.70522,43.810921,Ingreso laboral,low,ARG,Nivel educativo,Ingreso laboral total
+10,-132.05951,59.365383,Ingreso laboral,low,ARG,Nivel educativo,Ingreso laboral total
+-5,.0093405368,.0093078893,Empleo,low,URY,Nivel educativo,Empleado
+-4,.0052358699,.0085643409,Empleo,low,URY,Nivel educativo,Empleado
+-3,.00075313461,.0081194034,Empleo,low,URY,Nivel educativo,Empleado
+-2,0,0,Empleo,low,URY,Nivel educativo,Empleado
+-1,.00089471752,.0076989615,Empleo,low,URY,Nivel educativo,Empleado
+0,-.17275323,.024198996,Empleo,low,URY,Nivel educativo,Empleado
+1,-.16558291,.024801526,Empleo,low,URY,Nivel educativo,Empleado
+2,-.15657739,.023558252,Empleo,low,URY,Nivel educativo,Empleado
+3,-.13564999,.023056505,Empleo,low,URY,Nivel educativo,Empleado
+4,-.12974513,.023267314,Empleo,low,URY,Nivel educativo,Empleado
+5,-.11605362,.024150869,Empleo,low,URY,Nivel educativo,Empleado
+6,-.13878047,.02560078,Empleo,low,URY,Nivel educativo,Empleado
+7,-.090847842,.025544276,Empleo,low,URY,Nivel educativo,Empleado
+8,-.11604527,.027410164,Empleo,low,URY,Nivel educativo,Empleado
+9,-.090566762,.028407879,Empleo,low,URY,Nivel educativo,Empleado
+10,-.12951246,.030749096,Empleo,low,URY,Nivel educativo,Empleado
+-5,-.0027234321,.038016655,Empleo,low,PRY,Nivel educativo,Empleado
+-4,.012532611,.035960976,Empleo,low,PRY,Nivel educativo,Empleado
+-3,-.0071531013,.034816239,Empleo,low,PRY,Nivel educativo,Empleado
+-2,0,0,Empleo,low,PRY,Nivel educativo,Empleado
+-1,-.0059508444,.035971671,Empleo,low,PRY,Nivel educativo,Empleado
+0,-.21902247,.067547761,Empleo,low,PRY,Nivel educativo,Empleado
+1,-.13491234,.07134942,Empleo,low,PRY,Nivel educativo,Empleado
+2,-.07529851,.076459557,Empleo,low,PRY,Nivel educativo,Empleado
+3,-.089046054,.073490463,Empleo,low,PRY,Nivel educativo,Empleado
+4,-.11913081,.075294062,Empleo,low,PRY,Nivel educativo,Empleado
+5,-.096925899,.075007118,Empleo,low,PRY,Nivel educativo,Empleado
+6,-.1674884,.078518413,Empleo,low,PRY,Nivel educativo,Empleado
+7,-.032603171,.081638217,Empleo,low,PRY,Nivel educativo,Empleado
+8,-.093864903,.083801813,Empleo,low,PRY,Nivel educativo,Empleado
+9,-.047765609,.083175071,Empleo,low,PRY,Nivel educativo,Empleado
+10,-.021006526,.087794118,Empleo,low,PRY,Nivel educativo,Empleado
+-5,-.047922976,.066398323,Empleo,low,PER,Nivel educativo,Empleado
+-4,-.0068574869,.060799386,Empleo,low,PER,Nivel educativo,Empleado
+-3,-.039441064,.055104051,Empleo,low,PER,Nivel educativo,Empleado
+-2,0,0,Empleo,low,PER,Nivel educativo,Empleado
+-1,-.067396574,.052199747,Empleo,low,PER,Nivel educativo,Empleado
+0,-.3112708,.090708934,Empleo,low,PER,Nivel educativo,Empleado
+1,-.33290371,.090404265,Empleo,low,PER,Nivel educativo,Empleado
+2,-.25052857,.10069493,Empleo,low,PER,Nivel educativo,Empleado
+3,-.15827836,.092562616,Empleo,low,PER,Nivel educativo,Empleado
+4,-.20279215,.093677431,Empleo,low,PER,Nivel educativo,Empleado
+5,-.23221186,.097238682,Empleo,low,PER,Nivel educativo,Empleado
+6,-.097745553,.09651722,Empleo,low,PER,Nivel educativo,Empleado
+7,-.1122064,.10034002,Empleo,low,PER,Nivel educativo,Empleado
+8,-.093638234,.097158656,Empleo,low,PER,Nivel educativo,Empleado
+9,-.13889395,.10558484,Empleo,low,PER,Nivel educativo,Empleado
+10,-.15014884,.11757636,Empleo,low,PER,Nivel educativo,Empleado
+-5,.025281362,.039069165,Empleo,low,PAN,Nivel educativo,Empleado
+-4,.032242589,.036017448,Empleo,low,PAN,Nivel educativo,Empleado
+-3,.020635106,.03399476,Empleo,low,PAN,Nivel educativo,Empleado
+-2,0,0,Empleo,low,PAN,Nivel educativo,Empleado
+-1,.026129169,.032798186,Empleo,low,PAN,Nivel educativo,Empleado
+0,-.20056514,.065546282,Empleo,low,PAN,Nivel educativo,Empleado
+1,-.20156591,.069820821,Empleo,low,PAN,Nivel educativo,Empleado
+2,-.16402993,.069558479,Empleo,low,PAN,Nivel educativo,Empleado
+3,-.14151545,.070244208,Empleo,low,PAN,Nivel educativo,Empleado
+4,-.064368002,.073961146,Empleo,low,PAN,Nivel educativo,Empleado
+5,-.044478856,.074514657,Empleo,low,PAN,Nivel educativo,Empleado
+6,-.11761611,.078379929,Empleo,low,PAN,Nivel educativo,Empleado
+7,-.10529154,.078224637,Empleo,low,PAN,Nivel educativo,Empleado
+8,-.060515001,.082975887,Empleo,low,PAN,Nivel educativo,Empleado
+9,-.018165734,.085437566,Empleo,low,PAN,Nivel educativo,Empleado
+10,-.05035124,.084873356,Empleo,low,PAN,Nivel educativo,Empleado
+-5,.0041727005,.0057259635,Empleo,low,MEX,Nivel educativo,Empleado
+-4,.0068751443,.0050771516,Empleo,low,MEX,Nivel educativo,Empleado
+-3,-.0013934938,.0046633733,Empleo,low,MEX,Nivel educativo,Empleado
+-2,0,0,Empleo,low,MEX,Nivel educativo,Empleado
+-1,-.0016045759,.004323673,Empleo,low,MEX,Nivel educativo,Empleado
+0,-.246776,.010401694,Empleo,low,MEX,Nivel educativo,Empleado
+1,-.18610446,.010529166,Empleo,low,MEX,Nivel educativo,Empleado
+2,-.17147164,.010557947,Empleo,low,MEX,Nivel educativo,Empleado
+3,-.15890802,.010837344,Empleo,low,MEX,Nivel educativo,Empleado
+4,-.15948081,.011126431,Empleo,low,MEX,Nivel educativo,Empleado
+5,-.16907567,.011641895,Empleo,low,MEX,Nivel educativo,Empleado
+6,-.17600441,.012251181,Empleo,low,MEX,Nivel educativo,Empleado
+7,-.13807337,.013114749,Empleo,low,MEX,Nivel educativo,Empleado
+8,-.15687019,.014211669,Empleo,low,MEX,Nivel educativo,Empleado
+9,-.13985878,.015344376,Empleo,low,MEX,Nivel educativo,Empleado
+10,-.12378304,.01694913,Empleo,low,MEX,Nivel educativo,Empleado
+-5,-.005646999,.02970322,Empleo,low,ECU,Nivel educativo,Empleado
+-4,.014449502,.027014086,Empleo,low,ECU,Nivel educativo,Empleado
+-3,-.0017199755,.024720658,Empleo,low,ECU,Nivel educativo,Empleado
+-2,0,0,Empleo,low,ECU,Nivel educativo,Empleado
+-1,.0026481552,.022770837,Empleo,low,ECU,Nivel educativo,Empleado
+0,-.25389358,.047322325,Empleo,low,ECU,Nivel educativo,Empleado
+1,-.19652079,.048343066,Empleo,low,ECU,Nivel educativo,Empleado
+2,-.19813322,.049215749,Empleo,low,ECU,Nivel educativo,Empleado
+3,-.14913754,.048815027,Empleo,low,ECU,Nivel educativo,Empleado
+4,-.1289005,.048515473,Empleo,low,ECU,Nivel educativo,Empleado
+5,-.16661544,.050782606,Empleo,low,ECU,Nivel educativo,Empleado
+6,-.13449343,.053436067,Empleo,low,ECU,Nivel educativo,Empleado
+7,-.12520151,.053324349,Empleo,low,ECU,Nivel educativo,Empleado
+8,-.11569939,.058305591,Empleo,low,ECU,Nivel educativo,Empleado
+9,-.1323234,.064032957,Empleo,low,ECU,Nivel educativo,Empleado
+10,-.10763448,.070372216,Empleo,low,ECU,Nivel educativo,Empleado
+-5,-.010449249,.042922441,Empleo,low,CRI,Nivel educativo,Empleado
+-4,.030394953,.039663289,Empleo,low,CRI,Nivel educativo,Empleado
+-3,-.0047205947,.036592867,Empleo,low,CRI,Nivel educativo,Empleado
+-2,0,0,Empleo,low,CRI,Nivel educativo,Empleado
+-1,-.0031300939,.035854042,Empleo,low,CRI,Nivel educativo,Empleado
+0,-.23661734,.059268542,Empleo,low,CRI,Nivel educativo,Empleado
+1,-.25622913,.058702558,Empleo,low,CRI,Nivel educativo,Empleado
+2,-.19212858,.060101043,Empleo,low,CRI,Nivel educativo,Empleado
+3,-.22480632,.063242331,Empleo,low,CRI,Nivel educativo,Empleado
+4,-.21252148,.064218789,Empleo,low,CRI,Nivel educativo,Empleado
+5,-.25114277,.068154104,Empleo,low,CRI,Nivel educativo,Empleado
+6,-.25714085,.06876979,Empleo,low,CRI,Nivel educativo,Empleado
+7,-.21129322,.075580217,Empleo,low,CRI,Nivel educativo,Empleado
+8,-.19213621,.079626635,Empleo,low,CRI,Nivel educativo,Empleado
+9,-.21362998,.08049906,Empleo,low,CRI,Nivel educativo,Empleado
+10,-.15763628,.084888414,Empleo,low,CRI,Nivel educativo,Empleado
+-5,.012022245,.0092905657,Empleo,low,COL,Nivel educativo,Empleado
+-4,.0035511511,.0080592362,Empleo,low,COL,Nivel educativo,Empleado
+-3,.0014074239,.0073065725,Empleo,low,COL,Nivel educativo,Empleado
+-2,0,0,Empleo,low,COL,Nivel educativo,Empleado
+-1,.0021021669,.006570857,Empleo,low,COL,Nivel educativo,Empleado
+0,-.25692305,.015770974,Empleo,low,COL,Nivel educativo,Empleado
+1,-.17411594,.016615976,Empleo,low,COL,Nivel educativo,Empleado
+2,-.13498326,.017091803,Empleo,low,COL,Nivel educativo,Empleado
+3,-.10294858,.0181347,Empleo,low,COL,Nivel educativo,Empleado
+4,-.085235454,.01907916,Empleo,low,COL,Nivel educativo,Empleado
+5,-.083088011,.020363981,Empleo,low,COL,Nivel educativo,Empleado
+6,-.090687901,.022000657,Empleo,low,COL,Nivel educativo,Empleado
+7,-.092140943,.024190208,Empleo,low,COL,Nivel educativo,Empleado
+8,-.089776382,.02811786,Empleo,low,COL,Nivel educativo,Empleado
+9,-.077277951,.032632735,Empleo,low,COL,Nivel educativo,Empleado
+10,-.091891527,.044558469,Empleo,low,COL,Nivel educativo,Empleado
+-5,.0052471836,.013724704,Empleo,low,CHL,Nivel educativo,Empleado
+-4,.00038980704,.012386996,Empleo,low,CHL,Nivel educativo,Empleado
+-3,-.0035419322,.01145452,Empleo,low,CHL,Nivel educativo,Empleado
+-2,0,0,Empleo,low,CHL,Nivel educativo,Empleado
+-1,-.0077647041,.010512431,Empleo,low,CHL,Nivel educativo,Empleado
+0,-.20966899,.030477338,Empleo,low,CHL,Nivel educativo,Empleado
+1,-.26025158,.028225645,Empleo,low,CHL,Nivel educativo,Empleado
+2,-.19827075,.026956977,Empleo,low,CHL,Nivel educativo,Empleado
+3,-.16479442,.026932416,Empleo,low,CHL,Nivel educativo,Empleado
+4,-.18986364,.027570235,Empleo,low,CHL,Nivel educativo,Empleado
+5,-.15544793,.027939362,Empleo,low,CHL,Nivel educativo,Empleado
+6,-.14718926,.027372453,Empleo,low,CHL,Nivel educativo,Empleado
+7,-.10924698,.028351624,Empleo,low,CHL,Nivel educativo,Empleado
+8,-.13918483,.029644081,Empleo,low,CHL,Nivel educativo,Empleado
+9,-.13360506,.030968087,Empleo,low,CHL,Nivel educativo,Empleado
+10,-.12438287,.032717898,Empleo,low,CHL,Nivel educativo,Empleado
+-5,.0086788516,.0047944309,Empleo,low,BRA,Nivel educativo,Empleado
+-4,.0021808539,.004477086,Empleo,low,BRA,Nivel educativo,Empleado
+-3,.001068157,.0042658728,Empleo,low,BRA,Nivel educativo,Empleado
+-2,0,0,Empleo,low,BRA,Nivel educativo,Empleado
+-1,-.0046712896,.0041008536,Empleo,low,BRA,Nivel educativo,Empleado
+0,-.2429007,.011573215,Empleo,low,BRA,Nivel educativo,Empleado
+1,-.22890675,.011789453,Empleo,low,BRA,Nivel educativo,Empleado
+2,-.18644142,.012120183,Empleo,low,BRA,Nivel educativo,Empleado
+3,-.15983488,.012322657,Empleo,low,BRA,Nivel educativo,Empleado
+4,-.15080714,.012721856,Empleo,low,BRA,Nivel educativo,Empleado
+5,-.12837127,.013552117,Empleo,low,BRA,Nivel educativo,Empleado
+6,-.12692122,.013881069,Empleo,low,BRA,Nivel educativo,Empleado
+7,-.12832361,.014502016,Empleo,low,BRA,Nivel educativo,Empleado
+8,-.13498248,.015382786,Empleo,low,BRA,Nivel educativo,Empleado
+9,-.11194155,.015367039,Empleo,low,BRA,Nivel educativo,Empleado
+10,-.10803335,.016270898,Empleo,low,BRA,Nivel educativo,Empleado
+-5,-.00033944903,.064449564,Empleo,low,BOL,Nivel educativo,Empleado
+-4,-.051294491,.059882738,Empleo,low,BOL,Nivel educativo,Empleado
+-3,-.012652875,.05480003,Empleo,low,BOL,Nivel educativo,Empleado
+-2,0,0,Empleo,low,BOL,Nivel educativo,Empleado
+-1,-.024108578,.051000133,Empleo,low,BOL,Nivel educativo,Empleado
+0,-.34158385,.087354146,Empleo,low,BOL,Nivel educativo,Empleado
+1,-.29543364,.090648338,Empleo,low,BOL,Nivel educativo,Empleado
+2,-.20358735,.095368177,Empleo,low,BOL,Nivel educativo,Empleado
+3,-.19568883,.090168856,Empleo,low,BOL,Nivel educativo,Empleado
+4,-.30251598,.093455568,Empleo,low,BOL,Nivel educativo,Empleado
+5,-.23558772,.094890498,Empleo,low,BOL,Nivel educativo,Empleado
+6,-.32676148,.10566682,Empleo,low,BOL,Nivel educativo,Empleado
+7,-.18334815,.1065857,Empleo,low,BOL,Nivel educativo,Empleado
+8,-.11222502,.10160359,Empleo,low,BOL,Nivel educativo,Empleado
+9,-.25214741,.10256547,Empleo,low,BOL,Nivel educativo,Empleado
+10,-.12978892,.097203866,Empleo,low,BOL,Nivel educativo,Empleado
+-5,-.0046280688,.021993164,Empleo,low,ARG,Nivel educativo,Empleado
+-4,.017141659,.019754739,Empleo,low,ARG,Nivel educativo,Empleado
+-3,.013336488,.018144686,Empleo,low,ARG,Nivel educativo,Empleado
+-2,0,0,Empleo,low,ARG,Nivel educativo,Empleado
+-1,-.0054663382,.016402259,Empleo,low,ARG,Nivel educativo,Empleado
+0,-.21386191,.031867068,Empleo,low,ARG,Nivel educativo,Empleado
+1,-.21051846,.032745857,Empleo,low,ARG,Nivel educativo,Empleado
+2,-.2204062,.034269288,Empleo,low,ARG,Nivel educativo,Empleado
+3,-.24712649,.036170647,Empleo,low,ARG,Nivel educativo,Empleado
+4,-.23093061,.038456965,Empleo,low,ARG,Nivel educativo,Empleado
+5,-.23090562,.04221784,Empleo,low,ARG,Nivel educativo,Empleado
+6,-.23081042,.043805387,Empleo,low,ARG,Nivel educativo,Empleado
+7,-.25352904,.047401082,Empleo,low,ARG,Nivel educativo,Empleado
+8,-.2081196,.050087716,Empleo,low,ARG,Nivel educativo,Empleado
+9,-.25723645,.056934521,Empleo,low,ARG,Nivel educativo,Empleado
+10,-.22931468,.07126765,Empleo,low,ARG,Nivel educativo,Empleado
+-5,.010107951,.0072113075,Participación laboral,low,URY,Nivel educativo,Participación laboral femenina
+-4,.0072713997,.0067402362,Participación laboral,low,URY,Nivel educativo,Participación laboral femenina
+-3,.0035275496,.0064170198,Participación laboral,low,URY,Nivel educativo,Participación laboral femenina
+-2,0,0,Participación laboral,low,URY,Nivel educativo,Participación laboral femenina
+-1,.00042665191,.0061593936,Participación laboral,low,URY,Nivel educativo,Participación laboral femenina
+0,-.20691413,.023353908,Participación laboral,low,URY,Nivel educativo,Participación laboral femenina
+1,-.16256236,.023044463,Participación laboral,low,URY,Nivel educativo,Participación laboral femenina
+2,-.1519887,.02185864,Participación laboral,low,URY,Nivel educativo,Participación laboral femenina
+3,-.14039753,.021487383,Participación laboral,low,URY,Nivel educativo,Participación laboral femenina
+4,-.12389273,.021505304,Participación laboral,low,URY,Nivel educativo,Participación laboral femenina
+5,-.11201299,.02230325,Participación laboral,low,URY,Nivel educativo,Participación laboral femenina
+6,-.12595667,.023675544,Participación laboral,low,URY,Nivel educativo,Participación laboral femenina
+7,-.091819443,.023532337,Participación laboral,low,URY,Nivel educativo,Participación laboral femenina
+8,-.10835094,.025321383,Participación laboral,low,URY,Nivel educativo,Participación laboral femenina
+9,-.083950058,.02598189,Participación laboral,low,URY,Nivel educativo,Participación laboral femenina
+10,-.13118307,.028912142,Participación laboral,low,URY,Nivel educativo,Participación laboral femenina
+-5,.0066928216,.038287405,Participación laboral,low,PRY,Nivel educativo,Participación laboral femenina
+-4,.024311289,.035912778,Participación laboral,low,PRY,Nivel educativo,Participación laboral femenina
+-3,.003210559,.034809109,Participación laboral,low,PRY,Nivel educativo,Participación laboral femenina
+-2,0,0,Participación laboral,low,PRY,Nivel educativo,Participación laboral femenina
+-1,.0020724239,.035781555,Participación laboral,low,PRY,Nivel educativo,Participación laboral femenina
+0,-.2187238,.06864541,Participación laboral,low,PRY,Nivel educativo,Participación laboral femenina
+1,-.12272821,.070793636,Participación laboral,low,PRY,Nivel educativo,Participación laboral femenina
+2,-.065242298,.075709946,Participación laboral,low,PRY,Nivel educativo,Participación laboral femenina
+3,-.094825737,.073179841,Participación laboral,low,PRY,Nivel educativo,Participación laboral femenina
+4,-.12209616,.074771486,Participación laboral,low,PRY,Nivel educativo,Participación laboral femenina
+5,-.082270123,.074540615,Participación laboral,low,PRY,Nivel educativo,Participación laboral femenina
+6,-.16410932,.078372195,Participación laboral,low,PRY,Nivel educativo,Participación laboral femenina
+7,-.031109197,.080329217,Participación laboral,low,PRY,Nivel educativo,Participación laboral femenina
+8,-.096198492,.082826331,Participación laboral,low,PRY,Nivel educativo,Participación laboral femenina
+9,-.060220182,.082298897,Participación laboral,low,PRY,Nivel educativo,Participación laboral femenina
+10,-.040069386,.087094791,Participación laboral,low,PRY,Nivel educativo,Participación laboral femenina
+-5,-.048077863,.065763302,Participación laboral,low,PER,Nivel educativo,Participación laboral femenina
+-4,-.016946526,.059884779,Participación laboral,low,PER,Nivel educativo,Participación laboral femenina
+-3,-.050847396,.054523166,Participación laboral,low,PER,Nivel educativo,Participación laboral femenina
+-2,0,0,Participación laboral,low,PER,Nivel educativo,Participación laboral femenina
+-1,-.057587832,.050810307,Participación laboral,low,PER,Nivel educativo,Participación laboral femenina
+0,-.33590963,.090396181,Participación laboral,low,PER,Nivel educativo,Participación laboral femenina
+1,-.34208712,.089086294,Participación laboral,low,PER,Nivel educativo,Participación laboral femenina
+2,-.25414407,.099087812,Participación laboral,low,PER,Nivel educativo,Participación laboral femenina
+3,-.16691118,.090778656,Participación laboral,low,PER,Nivel educativo,Participación laboral femenina
+4,-.2103257,.092150003,Participación laboral,low,PER,Nivel educativo,Participación laboral femenina
+5,-.2385253,.095561899,Participación laboral,low,PER,Nivel educativo,Participación laboral femenina
+6,-.11077917,.094790891,Participación laboral,low,PER,Nivel educativo,Participación laboral femenina
+7,-.12669627,.099049397,Participación laboral,low,PER,Nivel educativo,Participación laboral femenina
+8,-.099532723,.094796881,Participación laboral,low,PER,Nivel educativo,Participación laboral femenina
+9,-.13927279,.10353223,Participación laboral,low,PER,Nivel educativo,Participación laboral femenina
+10,-.16524743,.11663393,Participación laboral,low,PER,Nivel educativo,Participación laboral femenina
+-5,.034804944,.038878441,Participación laboral,low,PAN,Nivel educativo,Participación laboral femenina
+-4,.035274047,.035946358,Participación laboral,low,PAN,Nivel educativo,Participación laboral femenina
+-3,.019479787,.033948127,Participación laboral,low,PAN,Nivel educativo,Participación laboral femenina
+-2,0,0,Participación laboral,low,PAN,Nivel educativo,Participación laboral femenina
+-1,.014521502,.032502752,Participación laboral,low,PAN,Nivel educativo,Participación laboral femenina
+0,-.23471193,.066228837,Participación laboral,low,PAN,Nivel educativo,Participación laboral femenina
+1,-.21484062,.07074105,Participación laboral,low,PAN,Nivel educativo,Participación laboral femenina
+2,-.15817486,.069653243,Participación laboral,low,PAN,Nivel educativo,Participación laboral femenina
+3,-.14865428,.070622772,Participación laboral,low,PAN,Nivel educativo,Participación laboral femenina
+4,-.085107163,.073897876,Participación laboral,low,PAN,Nivel educativo,Participación laboral femenina
+5,-.046316221,.073750444,Participación laboral,low,PAN,Nivel educativo,Participación laboral femenina
+6,-.12907425,.078461245,Participación laboral,low,PAN,Nivel educativo,Participación laboral femenina
+7,-.12034185,.078149311,Participación laboral,low,PAN,Nivel educativo,Participación laboral femenina
+8,-.054791812,.082896657,Participación laboral,low,PAN,Nivel educativo,Participación laboral femenina
+9,-.026444804,.085293286,Participación laboral,low,PAN,Nivel educativo,Participación laboral femenina
+10,-.07263229,.084824152,Participación laboral,low,PAN,Nivel educativo,Participación laboral femenina
+-5,.0052472837,.0056973482,Participación laboral,low,MEX,Nivel educativo,Participación laboral femenina
+-4,.0074116667,.0050511276,Participación laboral,low,MEX,Nivel educativo,Participación laboral femenina
+-3,-.0013848629,.0046385094,Participación laboral,low,MEX,Nivel educativo,Participación laboral femenina
+-2,0,0,Participación laboral,low,MEX,Nivel educativo,Participación laboral femenina
+-1,-.001256175,.004295839,Participación laboral,low,MEX,Nivel educativo,Participación laboral femenina
+0,-.25769311,.010502934,Participación laboral,low,MEX,Nivel educativo,Participación laboral femenina
+1,-.19145042,.010604804,Participación laboral,low,MEX,Nivel educativo,Participación laboral femenina
+2,-.1759709,.01061732,Participación laboral,low,MEX,Nivel educativo,Participación laboral femenina
+3,-.1716063,.010868527,Participación laboral,low,MEX,Nivel educativo,Participación laboral femenina
+4,-.16974042,.011160995,Participación laboral,low,MEX,Nivel educativo,Participación laboral femenina
+5,-.18028532,.0116751,Participación laboral,low,MEX,Nivel educativo,Participación laboral femenina
+6,-.18629003,.012294176,Participación laboral,low,MEX,Nivel educativo,Participación laboral femenina
+7,-.14875747,.013135663,Participación laboral,low,MEX,Nivel educativo,Participación laboral femenina
+8,-.16843095,.014245577,Participación laboral,low,MEX,Nivel educativo,Participación laboral femenina
+9,-.15296948,.015365382,Participación laboral,low,MEX,Nivel educativo,Participación laboral femenina
+10,-.13284492,.016963527,Participación laboral,low,MEX,Nivel educativo,Participación laboral femenina
+-5,-.0070369928,.029268386,Participación laboral,low,ECU,Nivel educativo,Participación laboral femenina
+-4,.017082132,.02646308,Participación laboral,low,ECU,Nivel educativo,Participación laboral femenina
+-3,-.0010155977,.024327489,Participación laboral,low,ECU,Nivel educativo,Participación laboral femenina
+-2,0,0,Participación laboral,low,ECU,Nivel educativo,Participación laboral femenina
+-1,.0084081814,.022281261,Participación laboral,low,ECU,Nivel educativo,Participación laboral femenina
+0,-.2759437,.047514081,Participación laboral,low,ECU,Nivel educativo,Participación laboral femenina
+1,-.19787222,.048365802,Participación laboral,low,ECU,Nivel educativo,Participación laboral femenina
+2,-.21325496,.049129825,Participación laboral,low,ECU,Nivel educativo,Participación laboral femenina
+3,-.15839881,.048695914,Participación laboral,low,ECU,Nivel educativo,Participación laboral femenina
+4,-.14496791,.048154458,Participación laboral,low,ECU,Nivel educativo,Participación laboral femenina
+5,-.19210958,.050557341,Participación laboral,low,ECU,Nivel educativo,Participación laboral femenina
+6,-.15870731,.0530301,Participación laboral,low,ECU,Nivel educativo,Participación laboral femenina
+7,-.15391998,.052897856,Participación laboral,low,ECU,Nivel educativo,Participación laboral femenina
+8,-.14425802,.057869595,Participación laboral,low,ECU,Nivel educativo,Participación laboral femenina
+9,-.14278877,.063384533,Participación laboral,low,ECU,Nivel educativo,Participación laboral femenina
+10,-.14608257,.070098631,Participación laboral,low,ECU,Nivel educativo,Participación laboral femenina
+-5,-.005893724,.042662166,Participación laboral,low,CRI,Nivel educativo,Participación laboral femenina
+-4,.029947437,.038926706,Participación laboral,low,CRI,Nivel educativo,Participación laboral femenina
+-3,-.00096162845,.036614224,Participación laboral,low,CRI,Nivel educativo,Participación laboral femenina
+-2,0,0,Participación laboral,low,CRI,Nivel educativo,Participación laboral femenina
+-1,-.011135871,.035729121,Participación laboral,low,CRI,Nivel educativo,Participación laboral femenina
+0,-.27888948,.059502684,Participación laboral,low,CRI,Nivel educativo,Participación laboral femenina
+1,-.28316647,.059373409,Participación laboral,low,CRI,Nivel educativo,Participación laboral femenina
+2,-.22450337,.060267862,Participación laboral,low,CRI,Nivel educativo,Participación laboral femenina
+3,-.23245515,.06447041,Participación laboral,low,CRI,Nivel educativo,Participación laboral femenina
+4,-.23513271,.064936325,Participación laboral,low,CRI,Nivel educativo,Participación laboral femenina
+5,-.25476027,.069240138,Participación laboral,low,CRI,Nivel educativo,Participación laboral femenina
+6,-.28820822,.069272444,Participación laboral,low,CRI,Nivel educativo,Participación laboral femenina
+7,-.2494626,.076462291,Participación laboral,low,CRI,Nivel educativo,Participación laboral femenina
+8,-.21032231,.080024295,Participación laboral,low,CRI,Nivel educativo,Participación laboral femenina
+9,-.23830615,.080652416,Participación laboral,low,CRI,Nivel educativo,Participación laboral femenina
+10,-.15494689,.085644625,Participación laboral,low,CRI,Nivel educativo,Participación laboral femenina
+-5,.011585216,.0088253748,Participación laboral,low,COL,Nivel educativo,Participación laboral femenina
+-4,.00068152708,.0076738214,Participación laboral,low,COL,Nivel educativo,Participación laboral femenina
+-3,.0030049176,.0069007603,Participación laboral,low,COL,Nivel educativo,Participación laboral femenina
+-2,0,0,Participación laboral,low,COL,Nivel educativo,Participación laboral femenina
+-1,.0014978035,.0061625442,Participación laboral,low,COL,Nivel educativo,Participación laboral femenina
+0,-.30482113,.01594401,Participación laboral,low,COL,Nivel educativo,Participación laboral femenina
+1,-.1836285,.016302757,Participación laboral,low,COL,Nivel educativo,Participación laboral femenina
+2,-.14191021,.016567849,Participación laboral,low,COL,Nivel educativo,Participación laboral femenina
+3,-.12041342,.01747001,Participación laboral,low,COL,Nivel educativo,Participación laboral femenina
+4,-.10766935,.018359222,Participación laboral,low,COL,Nivel educativo,Participación laboral femenina
+5,-.10462295,.019608788,Participación laboral,low,COL,Nivel educativo,Participación laboral femenina
+6,-.10193624,.021108162,Participación laboral,low,COL,Nivel educativo,Participación laboral femenina
+7,-.10790334,.023337798,Participación laboral,low,COL,Nivel educativo,Participación laboral femenina
+8,-.10308522,.02717476,Participación laboral,low,COL,Nivel educativo,Participación laboral femenina
+9,-.092187263,.031526014,Participación laboral,low,COL,Nivel educativo,Participación laboral femenina
+10,-.10427444,.043071453,Participación laboral,low,COL,Nivel educativo,Participación laboral femenina
+-5,.0031100805,.013281955,Participación laboral,low,CHL,Nivel educativo,Participación laboral femenina
+-4,-.0002258608,.011963538,Participación laboral,low,CHL,Nivel educativo,Participación laboral femenina
+-3,-.0039957091,.011021589,Participación laboral,low,CHL,Nivel educativo,Participación laboral femenina
+-2,0,0,Participación laboral,low,CHL,Nivel educativo,Participación laboral femenina
+-1,-.0097129671,.010149872,Participación laboral,low,CHL,Nivel educativo,Participación laboral femenina
+0,-.24418552,.030283617,Participación laboral,low,CHL,Nivel educativo,Participación laboral femenina
+1,-.28021601,.028097939,Participación laboral,low,CHL,Nivel educativo,Participación laboral femenina
+2,-.20764315,.026496053,Participación laboral,low,CHL,Nivel educativo,Participación laboral femenina
+3,-.18762745,.026519857,Participación laboral,low,CHL,Nivel educativo,Participación laboral femenina
+4,-.20515724,.027217805,Participación laboral,low,CHL,Nivel educativo,Participación laboral femenina
+5,-.18373564,.02751638,Participación laboral,low,CHL,Nivel educativo,Participación laboral femenina
+6,-.17201045,.026953271,Participación laboral,low,CHL,Nivel educativo,Participación laboral femenina
+7,-.13257901,.027845269,Participación laboral,low,CHL,Nivel educativo,Participación laboral femenina
+8,-.16009542,.029245678,Participación laboral,low,CHL,Nivel educativo,Participación laboral femenina
+9,-.14779539,.030533703,Participación laboral,low,CHL,Nivel educativo,Participación laboral femenina
+10,-.13565652,.032185689,Participación laboral,low,CHL,Nivel educativo,Participación laboral femenina
+-5,.0055166828,.0043952269,Participación laboral,low,BRA,Nivel educativo,Participación laboral femenina
+-4,.0022402194,.0041045952,Participación laboral,low,BRA,Nivel educativo,Participación laboral femenina
+-3,.00054793741,.003926957,Participación laboral,low,BRA,Nivel educativo,Participación laboral femenina
+-2,0,0,Participación laboral,low,BRA,Nivel educativo,Participación laboral femenina
+-1,-.0034024145,.0037818882,Participación laboral,low,BRA,Nivel educativo,Participación laboral femenina
+0,-.27398422,.011540907,Participación laboral,low,BRA,Nivel educativo,Participación laboral femenina
+1,-.23633055,.011677559,Participación laboral,low,BRA,Nivel educativo,Participación laboral femenina
+2,-.18232033,.011844422,Participación laboral,low,BRA,Nivel educativo,Participación laboral femenina
+3,-.15949069,.011975274,Participación laboral,low,BRA,Nivel educativo,Participación laboral femenina
+4,-.15061575,.012365162,Participación laboral,low,BRA,Nivel educativo,Participación laboral femenina
+5,-.13424522,.013168086,Participación laboral,low,BRA,Nivel educativo,Participación laboral femenina
+6,-.13087936,.013506254,Participación laboral,low,BRA,Nivel educativo,Participación laboral femenina
+7,-.13462792,.014156885,Participación laboral,low,BRA,Nivel educativo,Participación laboral femenina
+8,-.13903478,.015061831,Participación laboral,low,BRA,Nivel educativo,Participación laboral femenina
+9,-.11435417,.014974861,Participación laboral,low,BRA,Nivel educativo,Participación laboral femenina
+10,-.11343895,.015887218,Participación laboral,low,BRA,Nivel educativo,Participación laboral femenina
+-5,-.0066945897,.060386661,Participación laboral,low,BOL,Nivel educativo,Participación laboral femenina
+-4,-.050169311,.056650467,Participación laboral,low,BOL,Nivel educativo,Participación laboral femenina
+-3,-.0091033289,.051513731,Participación laboral,low,BOL,Nivel educativo,Participación laboral femenina
+-2,0,0,Participación laboral,low,BOL,Nivel educativo,Participación laboral femenina
+-1,-.036955219,.04914505,Participación laboral,low,BOL,Nivel educativo,Participación laboral femenina
+0,-.35635418,.087994047,Participación laboral,low,BOL,Nivel educativo,Participación laboral femenina
+1,-.32332,.089266725,Participación laboral,low,BOL,Nivel educativo,Participación laboral femenina
+2,-.24564481,.094337054,Participación laboral,low,BOL,Nivel educativo,Participación laboral femenina
+3,-.21499522,.08853206,Participación laboral,low,BOL,Nivel educativo,Participación laboral femenina
+4,-.30472073,.09203057,Participación laboral,low,BOL,Nivel educativo,Participación laboral femenina
+5,-.25255749,.093153834,Participación laboral,low,BOL,Nivel educativo,Participación laboral femenina
+6,-.33726382,.10558283,Participación laboral,low,BOL,Nivel educativo,Participación laboral femenina
+7,-.16049597,.1040483,Participación laboral,low,BOL,Nivel educativo,Participación laboral femenina
+8,-.15250446,.10032797,Participación laboral,low,BOL,Nivel educativo,Participación laboral femenina
+9,-.24849457,.10080287,Participación laboral,low,BOL,Nivel educativo,Participación laboral femenina
+10,-.16497034,.095902354,Participación laboral,low,BOL,Nivel educativo,Participación laboral femenina
+-5,-.0058647264,.020703336,Participación laboral,low,ARG,Nivel educativo,Participación laboral femenina
+-4,.015964475,.018456098,Participación laboral,low,ARG,Nivel educativo,Participación laboral femenina
+-3,.009388621,.017002147,Participación laboral,low,ARG,Nivel educativo,Participación laboral femenina
+-2,0,0,Participación laboral,low,ARG,Nivel educativo,Participación laboral femenina
+-1,-.0023036194,.015382305,Participación laboral,low,ARG,Nivel educativo,Participación laboral femenina
+0,-.2410941,.031536076,Participación laboral,low,ARG,Nivel educativo,Participación laboral femenina
+1,-.20904861,.032194708,Participación laboral,low,ARG,Nivel educativo,Participación laboral femenina
+2,-.2235606,.033802863,Participación laboral,low,ARG,Nivel educativo,Participación laboral femenina
+3,-.2576392,.035771545,Participación laboral,low,ARG,Nivel educativo,Participación laboral femenina
+4,-.22999935,.037890464,Participación laboral,low,ARG,Nivel educativo,Participación laboral femenina
+5,-.23499443,.041759409,Participación laboral,low,ARG,Nivel educativo,Participación laboral femenina
+6,-.21538562,.043092221,Participación laboral,low,ARG,Nivel educativo,Participación laboral femenina
+7,-.25902507,.046954323,Participación laboral,low,ARG,Nivel educativo,Participación laboral femenina
+8,-.20196316,.049180988,Participación laboral,low,ARG,Nivel educativo,Participación laboral femenina
+9,-.24346706,.056323923,Participación laboral,low,ARG,Nivel educativo,Participación laboral femenina
+10,-.22117288,.070061907,Participación laboral,low,ARG,Nivel educativo,Participación laboral femenina
+-5,15.828162,3.7450097,Ingreso laboral,high,LATAM,Nivel educativo,Ingreso laboral total
+-4,11.103699,3.498862,Ingreso laboral,high,LATAM,Nivel educativo,Ingreso laboral total
+-3,7.0346761,3.2562714,Ingreso laboral,high,LATAM,Nivel educativo,Ingreso laboral total
+-2,0,0,Ingreso laboral,high,LATAM,Nivel educativo,Ingreso laboral total
+-1,-9.1922121,3.1247087,Ingreso laboral,high,LATAM,Nivel educativo,Ingreso laboral total
+0,-146.87421,8.994998,Ingreso laboral,high,LATAM,Nivel educativo,Ingreso laboral total
+1,-145.58824,9.8991003,Ingreso laboral,high,LATAM,Nivel educativo,Ingreso laboral total
+2,-158.69894,10.079028,Ingreso laboral,high,LATAM,Nivel educativo,Ingreso laboral total
+3,-157.79848,10.43555,Ingreso laboral,high,LATAM,Nivel educativo,Ingreso laboral total
+4,-173.03311,11.347762,Ingreso laboral,high,LATAM,Nivel educativo,Ingreso laboral total
+5,-183.22908,12.223062,Ingreso laboral,high,LATAM,Nivel educativo,Ingreso laboral total
+6,-205.53,13.11713,Ingreso laboral,high,LATAM,Nivel educativo,Ingreso laboral total
+7,-236.27805,13.018835,Ingreso laboral,high,LATAM,Nivel educativo,Ingreso laboral total
+8,-225.59773,15.348407,Ingreso laboral,high,LATAM,Nivel educativo,Ingreso laboral total
+9,-244.54396,16.773684,Ingreso laboral,high,LATAM,Nivel educativo,Ingreso laboral total
+10,-263.13788,20.018398,Ingreso laboral,high,LATAM,Nivel educativo,Ingreso laboral total
+-5,.010261175,.0022801403,Empleo,high,LATAM,Nivel educativo,Empleado
+-4,.0038541867,.0020550448,Empleo,high,LATAM,Nivel educativo,Empleado
+-3,.0023618646,.0018865357,Empleo,high,LATAM,Nivel educativo,Empleado
+-2,0,0,Empleo,high,LATAM,Nivel educativo,Empleado
+-1,-.0045055607,.0016914874,Empleo,high,LATAM,Nivel educativo,Empleado
+0,-.13426051,.0052559935,Empleo,high,LATAM,Nivel educativo,Empleado
+1,-.12641932,.0052452385,Empleo,high,LATAM,Nivel educativo,Empleado
+2,-.11194132,.0052762483,Empleo,high,LATAM,Nivel educativo,Empleado
+3,-.10778724,.0053995354,Empleo,high,LATAM,Nivel educativo,Empleado
+4,-.11235303,.0056934399,Empleo,high,LATAM,Nivel educativo,Empleado
+5,-.10664716,.0059486949,Empleo,high,LATAM,Nivel educativo,Empleado
+6,-.1125579,.0064220927,Empleo,high,LATAM,Nivel educativo,Empleado
+7,-.12174077,.0069688703,Empleo,high,LATAM,Nivel educativo,Empleado
+8,-.12011844,.0075373752,Empleo,high,LATAM,Nivel educativo,Empleado
+9,-.12415355,.0082159648,Empleo,high,LATAM,Nivel educativo,Empleado
+10,-.13666461,.0095026037,Empleo,high,LATAM,Nivel educativo,Empleado
+-5,.0084585706,.0020310152,Participación laboral,high,LATAM,Nivel educativo,Participación laboral femenina
+-4,.0036548111,.0018300897,Participación laboral,high,LATAM,Nivel educativo,Participación laboral femenina
+-3,.0012641036,.0016753704,Participación laboral,high,LATAM,Nivel educativo,Participación laboral femenina
+-2,0,0,Participación laboral,high,LATAM,Nivel educativo,Participación laboral femenina
+-1,-.0042449017,.001489947,Participación laboral,high,LATAM,Nivel educativo,Participación laboral femenina
+0,-.14549309,.0050126375,Participación laboral,high,LATAM,Nivel educativo,Participación laboral femenina
+1,-.12227289,.0048724236,Participación laboral,high,LATAM,Nivel educativo,Participación laboral femenina
+2,-.10769276,.0048643155,Participación laboral,high,LATAM,Nivel educativo,Participación laboral femenina
+3,-.10533609,.0049773208,Participación laboral,high,LATAM,Nivel educativo,Participación laboral femenina
+4,-.11175343,.0052770851,Participación laboral,high,LATAM,Nivel educativo,Participación laboral femenina
+5,-.10850756,.0055425693,Participación laboral,high,LATAM,Nivel educativo,Participación laboral femenina
+6,-.11420653,.0059956801,Participación laboral,high,LATAM,Nivel educativo,Participación laboral femenina
+7,-.12301462,.0065226876,Participación laboral,high,LATAM,Nivel educativo,Participación laboral femenina
+8,-.11954711,.0070409724,Participación laboral,high,LATAM,Nivel educativo,Participación laboral femenina
+9,-.12214489,.0076725879,Participación laboral,high,LATAM,Nivel educativo,Participación laboral femenina
+10,-.13542925,.0089449016,Participación laboral,high,LATAM,Nivel educativo,Participación laboral femenina
+-5,.38176212,2.1987767,Ingreso laboral,low,LATAM,Nivel educativo,Ingreso laboral total
+-4,.39989051,2.1175656,Ingreso laboral,low,LATAM,Nivel educativo,Ingreso laboral total
+-3,-.1322757,1.9822395,Ingreso laboral,low,LATAM,Nivel educativo,Ingreso laboral total
+-2,0,0,Ingreso laboral,low,LATAM,Nivel educativo,Ingreso laboral total
+-1,-2.4864383,1.9899319,Ingreso laboral,low,LATAM,Nivel educativo,Ingreso laboral total
+0,-87.896683,5.3539362,Ingreso laboral,low,LATAM,Nivel educativo,Ingreso laboral total
+1,-88.465912,3.7273085,Ingreso laboral,low,LATAM,Nivel educativo,Ingreso laboral total
+2,-79.989685,3.9114027,Ingreso laboral,low,LATAM,Nivel educativo,Ingreso laboral total
+3,-82.030098,4.0333595,Ingreso laboral,low,LATAM,Nivel educativo,Ingreso laboral total
+4,-81.29982,3.9968877,Ingreso laboral,low,LATAM,Nivel educativo,Ingreso laboral total
+5,-82.392693,4.1798191,Ingreso laboral,low,LATAM,Nivel educativo,Ingreso laboral total
+6,-78.99247,4.4250493,Ingreso laboral,low,LATAM,Nivel educativo,Ingreso laboral total
+7,-75.849564,4.7007427,Ingreso laboral,low,LATAM,Nivel educativo,Ingreso laboral total
+8,-79.091377,4.787365,Ingreso laboral,low,LATAM,Nivel educativo,Ingreso laboral total
+9,-71.138,5.0626073,Ingreso laboral,low,LATAM,Nivel educativo,Ingreso laboral total
+10,-66.176781,6.1232924,Ingreso laboral,low,LATAM,Nivel educativo,Ingreso laboral total
+-5,.0068542981,.0031221379,Empleo,low,LATAM,Nivel educativo,Empleado
+-4,.0050233565,.0028375213,Empleo,low,LATAM,Nivel educativo,Empleado
+-3,.00011443668,.0026494281,Empleo,low,LATAM,Nivel educativo,Empleado
+-2,0,0,Empleo,low,LATAM,Nivel educativo,Empleado
+-1,-.002263925,.0024853954,Empleo,low,LATAM,Nivel educativo,Empleado
+0,-.23879233,.0062086829,Empleo,low,LATAM,Nivel educativo,Empleado
+1,-.19968061,.0063132131,Empleo,low,LATAM,Nivel educativo,Empleado
+2,-.16990393,.0063657369,Empleo,low,LATAM,Nivel educativo,Empleado
+3,-.15014187,.0065076896,Empleo,low,LATAM,Nivel educativo,Empleado
+4,-.14676511,.0066961213,Empleo,low,LATAM,Nivel educativo,Empleado
+5,-.14066505,.0070317625,Empleo,low,LATAM,Nivel educativo,Empleado
+6,-.1456981,.0073172823,Empleo,low,LATAM,Nivel educativo,Empleado
+7,-.12535712,.0077244374,Empleo,low,LATAM,Nivel educativo,Empleado
+8,-.13706183,.0082889283,Empleo,low,LATAM,Nivel educativo,Empleado
+9,-.12569059,.0087193744,Empleo,low,LATAM,Nivel educativo,Empleado
+10,-.12181769,.0095078973,Empleo,low,LATAM,Nivel educativo,Empleado
+-5,.0065922802,.0029816092,Participación laboral,low,LATAM,Nivel educativo,Participación laboral femenina
+-4,.0053467914,.0027144447,Participación laboral,low,LATAM,Nivel educativo,Participación laboral femenina
+-3,.00027832543,.0025395064,Participación laboral,low,LATAM,Nivel educativo,Participación laboral femenina
+-2,0,0,Participación laboral,low,LATAM,Nivel educativo,Participación laboral femenina
+-1,-.0018052852,.0023837048,Participación laboral,low,LATAM,Nivel educativo,Participación laboral femenina
+0,-.26480234,.0062224912,Participación laboral,low,LATAM,Nivel educativo,Participación laboral femenina
+1,-.20538165,.006270831,Participación laboral,low,LATAM,Nivel educativo,Participación laboral femenina
+2,-.1711885,.006277944,Participación laboral,low,LATAM,Nivel educativo,Participación laboral femenina
+3,-.15799519,.0064007584,Participación laboral,low,LATAM,Nivel educativo,Participación laboral femenina
+4,-.1531104,.0065788701,Participación laboral,low,LATAM,Nivel educativo,Participación laboral femenina
+5,-.14977966,.0069111404,Participación laboral,low,LATAM,Nivel educativo,Participación laboral femenina
+6,-.15209273,.0071927207,Participación laboral,low,LATAM,Nivel educativo,Participación laboral femenina
+7,-.13472223,.0075979102,Participación laboral,low,LATAM,Nivel educativo,Participación laboral femenina
+8,-.14508809,.0081636384,Participación laboral,low,LATAM,Nivel educativo,Participación laboral femenina
+9,-.13322033,.0085679302,Participación laboral,low,LATAM,Nivel educativo,Participación laboral femenina
+10,-.12978169,.0093664667,Participación laboral,low,LATAM,Nivel educativo,Participación laboral femenina
